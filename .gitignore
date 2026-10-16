@@ -1,0 +1,25 @@
+# Secrets - never commit (keep .env.example)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

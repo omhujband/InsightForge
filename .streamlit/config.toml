@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+primaryColor = "#A6533C"
+backgroundColor = "#FBF7F0"
+secondaryBackgroundColor = "#F1E7DA"
+textColor = "#382E2A"
+linkColor = "#9A4937"
+codeBackgroundColor = "#F2E9DF"
+borderColor = "#E3D6C8"
+baseRadius = "0.65rem"
+buttonRadius = "0.65rem"
+
+[theme.sidebar]
+backgroundColor = "#F1E7DA"
+textColor = "#382E2A"
+
+[server]
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false

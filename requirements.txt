@@ -1,0 +1,22 @@
+# Core
+streamlit>=1.50,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+plotly>=5.24,<7
+python-dotenv>=1.0,<2
+openpyxl>=3.1,<4        # .xlsx
+xlrd>=2.0,<3            # .xls
+
+# LLM orchestration
+langgraph>=0.2,<2
+langchain-openai>=0.2,<2          # Groq / OpenRouter / OpenAI / xAI (OpenAI-compatible)
+langchain-google-genai>=2,<5      # Gemini (+ optional embeddings)
+
+# Documents (RAG), reports, auth
+pypdf>=4,<7
+scikit-learn>=1.5,<2
+reportlab>=4,<5
+supabase>=2.8,<3
+
+# Optional: Prophet forecasting model (heavy install; the app works without it)
+# prophet>=1.1.5

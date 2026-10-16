@@ -1,0 +1,1513 @@
+order_id,order_date,region,category,product,units,unit_price,discount,revenue,customer_id,channel
+10000,2024-01-01,North,Furniture,Chair,5,147.09,0.1,661.92,C1213,Retail
+10001,2024-01-02,South,Software,Antivirus,2,39.73,0.1,71.52,C1225,Online
+10002,2024-01-02,North,Office,Printer,4,183.71,0.15,624.63,C1029,Online
+10003,2024-01-04,South,Software,Cloud Plan,2,97.26,0.1,175.06,C1211,Online
+10004,2024-01-04,East,Electronics,Phone,3,625.36,0.15,1594.68,C1176,Online
+10005,2024-01-04,North,Electronics,Phone,1,555.79,0.15,472.43,C1001,Retail
+10006,2024-01-04,South,Software,Antivirus,3,39.82,0.1,107.51,C1168,Retail
+10007,2024-01-04,West,Software,Antivirus,1,43.17,0.0,43.17,C1054,Online
+10008,2024-01-04,North,Electronics,Laptop,2,938.03,0.0,1876.05,C1285,Online
+10009,2024-01-05,South,Electronics,Laptop,2,865.83,0.0,1731.67,C1172,Online
+10010,2024-01-05,East,Office,Notebook,2,8.42,0.0,16.84,C1063,Online
+10011,2024-01-06,North,Office,Printer,1,167.59,0.05,159.21,C1218,Online
+10012,2024-01-06,North,Office,Notebook,2,8.46,0.0,16.93,C1266,Partner
+10013,2024-01-06,North,Electronics,Laptop,5,906.95,0.05,4308.02,C1249,Online
+10014,2024-01-06,West,Furniture,Desk,3,307.93,0.15,785.22,C1104,Online
+10015,2024-01-06,North,Electronics,Phone,2,581.33,0.15,988.25,C1261,Retail
+10016,2024-01-07,North,Electronics,Phone,1,633.38,0.1,570.04,C1171,Online
+10017,2024-01-08,North,Office,Notebook,1,8.62,0.0,8.62,C1224,Online
+10018,2024-01-08,North,Office,Notebook,1,7.82,0.1,7.04,C1091,Partner
+10019,2024-01-09,East,Electronics,Phone,2,570.19,0.0,1140.38,C1237,Retail
+10020,2024-01-09,North,Software,Antivirus,4,38.38,0.15,130.5,C1272,Online
+10021,2024-01-11,East,Furniture,Chair,1,149.69,0.15,127.24,C1158,Online
+10022,2024-01-11,East,Software,Cloud Plan,3,90.41,0.0,271.23,C1031,Retail
+10023,2024-01-11,West,Office,Notebook,6,8.33,0.0,49.98,C1199,Online
+10024,2024-01-11,North,Office,Notebook,3,7.57,0.15,19.29,C1017,Online
+10025,2024-01-12,West,Office,Notebook,6,8.11,0.1,43.79,C1030,Online
+10026,2024-01-13,East,Furniture,Chair,2,154.3,0.15,262.31,C1004,Retail
+10027,2024-01-14,North,Office,Printer,4,182.63,0.0,730.52,C1110,Online
+10028,2024-01-14,East,Electronics,Phone,3,587.84,0.0,1763.53,C1067,Retail
+10029,2024-01-15,West,Furniture,Desk,4,313.08,0.0,1252.32,C1015,Partner
+10030,2024-01-16,North,Software,Cloud Plan,3,95.79,0.05,273.01,C1188,Partner
+10031,2024-01-16,West,Software,Cloud Plan,2,91.61,0.0,183.23,C1159,Retail
+10032,2024-01-17,South,Furniture,Chair,1,140.87,0.05,133.82,C1095,Online
+10033,2024-01-17,East,Electronics,Headphones,1,120.93,0.0,120.93,C1168,Online
+10034,2024-01-17,West,Office,Notebook,7,7.55,0.15,44.94,C1010,Retail
+10035,2024-01-17,South,Office,Printer,1,176.47,0.15,150.0,C1152,Online
+10036,2024-01-18,West,Furniture,Chair,3,144.0,0.0,431.99,C1184,Online
+10037,2024-01-19,South,Furniture,Desk,4,299.97,0.0,1199.86,C1078,Online
+10038,2024-01-19,East,Electronics,Headphones,4,123.42,0.1,444.32,C1217,Retail
+10039,2024-01-19,East,Software,Antivirus,7,36.9,0.0,258.31,C1277,Online
+10040,2024-01-19,North,Software,Antivirus,1,38.05,0.0,38.05,C1180,Online
+10041,2024-01-22,South,Electronics,Phone,4,595.3,0.15,2024.04,C1088,Partner
+10042,2024-01-22,South,Electronics,Phone,5,642.48,0.05,3051.78,C1030,Retail
+10043,2024-01-22,North,Electronics,Laptop,5,923.91,0.0,4619.56,C1148,Online
+10044,2024-01-23,North,Software,Cloud Plan,5,101.11,0.15,429.73,C1214,Online
+10045,2024-01-24,South,Electronics,Phone,1,575.17,0.15,488.89,C1266,Retail
+10046,2024-01-24,North,Furniture,Desk,2,298.29,0.05,566.75,C1213,Retail
+10047,2024-01-26,North,Office,Printer,7,190.45,0.0,1333.17,C1244,Retail
+10048,2024-01-26,East,Furniture,Chair,2,147.47,0.15,250.69,C1094,Online
+10049,2024-01-27,East,Furniture,Chair,3,143.9,0.1,388.54,C1172,Online
+10050,2024-01-27,East,Office,Printer,5,177.08,,841.13,C1019,Retail
+10051,2024-01-27,South,Software,Antivirus,3,37.78,0.1,102.01,C1201,missing
+10052,2024-01-28,West,Furniture,Desk,5,294.3,0.15,1250.79,C1283,Partner
+10053,2024-01-28,East,Office,Notebook,5,8.04,0.0,40.21,C1051,Retail
+10054,2024-01-28,North,Software,Antivirus,2,38.4,0.0,76.8,C1099,Partner
+10055,2024-01-30,North,Electronics,Phone,4,605.42,0.0,2421.69,C1222,Retail
+10056,2024-01-30,East,Electronics,Laptop,1,956.58,0.0,956.58,C1212,Retail
+10057,2024-01-31,North,Electronics,Laptop,2,867.17,0.0,1734.35,C1212,Retail
+10058,2024-01-31, South ,Electronics,Laptop,3,853.2,0.15,2175.65,C1232,Online
+10059,2024-01-31,West,Electronics,Laptop,2,860.44,0.05,1634.84,C1264,Retail
+10060,2024-01-31,North,Software,Cloud Plan,3,97.65,0.1,263.65,C1176,Online
+10061,2024-01-31,North,Software,Antivirus,6,39.65,0.0,237.9,C1226,Online
+10062,2024-02-01,West,Office,Printer,1,173.08,0.05,164.43,C1236,Retail
+10063,2024-02-01,East,Furniture,Desk,6,286.4,0.05,1632.47,C1221,Partner
+10064,2024-02-02,North,Software,Antivirus,5,40.81,,193.85,C1135,Online
+10065,2024-02-02,West,Electronics,Phone,2,583.56,0.0,1167.13,C1013,Partner
+10066,2024-02-02,West,Office,Notebook,3,7.4,0.0,22.19,C1032,Online
+10067,2024-02-02,South,Office,Printer,6,167.16,0.0,1002.94,C1066,Online
+10068,2024-02-02,East,Furniture,Desk,3,308.82,0.15,787.5,C1183,Retail
+10069,2024-02-04,North,Furniture,Desk,2,297.04,0.15,504.96,C1069,Online
+10070,2024-02-05,North,Office,Printer,6,176.55,0.0,1059.3,C1059,Online
+10071,2024-02-05,East,Furniture,Chair,1,150.61,0.05,143.08,C1124,Online
+10072,2024-02-06,North,Furniture,Chair,1,160.34,0.05,152.32,C1225,Online
+10073,2024-02-06,East,Electronics,Phone,1,575.96,0.0,575.96,C1082,Online
+10074,2024-02-07,West,Furniture,Chair,2,141.88,0.0,283.77,C1140,Online
+10075,2024-02-07,North,Electronics,Phone,1,642.37,0.0,642.37,C1043,Partner
+10076,2024-02-07,East,Office,Printer,2,194.02,0.1,349.23,C1260,Online
+10077,2024-02-07,North,Furniture,Chair,3,160.35,0.0,481.05,C1290,Online
+10078,2024-02-08,West,Software,Antivirus,3,41.31,0.05,117.73,C1099,Online
+10079,2024-02-09,North,Software,Antivirus,2,37.02,0.15,62.94,C1048,Retail
+10080,2024-02-09,East,Electronics,Laptop,4,926.5,0.05,3520.68,C1273,Partner
+10081,2024-02-10,East,Office,Printer,1,179.19,0.15,152.31,C1073,Online
+10082,2024-02-10,South,Software,Cloud Plan,1,99.79,0.0,99.79,C1223,Online
+10083,2024-02-10,East,Office,Notebook,3,8.59,0.05,24.47,C1274,Online
+10084,2024-02-10,East,Electronics,Headphones,4,110.63,0.0,442.51,C1222,Online
+10085,2024-02-11,East,Furniture,Chair,2,145.69,0.0,291.38,C1140,Retail
+10086,2024-02-12,East,Electronics,Laptop,7,900.82,0.15,5359.9,C1223,Retail
+10087,2024-02-12,West,Electronics,Laptop,1,862.75,0.15,733.33,C1048,Retail
+10088,2024-02-14,South,Office,Printer,4,174.51,0.15,593.35,C1256,Online
+10089,2024-02-14,South,Software,Cloud Plan,2,96.43,0.0,192.86,C1232,missing
+10090,2024-02-14,North,Electronics,Laptop,4,936.12,0.0,3744.48,C1262,Partner
+10091,2024-02-14,East,Electronics,Headphones,3,116.66,0.0,349.99,C1171,Online
+10092,2024-02-16,South,Electronics,Phone,3,634.53,0.0,1903.59,C1111,Online
+10093,2024-02-17,South,Software,Antivirus,1,41.32,0.0,41.32,C1055,Retail
+10094,2024-02-17,North,Furniture,Desk,7,312.71,0.15,1860.61,C1061,Online
+10095,2024-02-18,West,Office,Printer,3,188.15,0.15,479.77,C1064,Online
+10096,2024-02-18,South,Office,Printer,4,172.64,,656.04,C1042,Online
+10097,2024-02-19,East,Electronics,Headphones,8,128.91,0.0,1031.27,C1066,Online
+10098,2024-02-19,North,Office,Notebook,2,8.33,0.1,15.0,C1223,Partner
+10099,2024-02-19,West,Software,Cloud Plan,3,101.32,0.0,303.97,C1025,Online
+10100,2024-02-21,North,Electronics,Laptop,6,965.26,0.0,5791.57,C1213,Online
+10101,2024-02-22,North,Software,Cloud Plan,4,91.99,0.0,367.95,C1047,Retail
+10102,2024-02-22,West,Electronics,Headphones,3,113.51,0.0,340.54,C1205,Online
+10103,2024-02-24,West,Electronics,Laptop,3,927.2,0.1,2503.44,C1012,Retail
+10104,2024-02-24,North,Office,Printer,3,167.24,0.15,426.45,C1139,Online
+10105,2024-02-25,South,Software,Cloud Plan,4,97.12,0.0,388.48,C1179,Online
+10106,2024-02-26,East,Electronics,Phone,1,583.85,0.0,583.85,C1234,Online
+10107,2024-02-26,West,Software,Cloud Plan,3,102.06,0.0,306.18,C1028,Online
+10108,2024-02-27,South,Electronics,Headphones,4,129.34,0.1,465.63,C1038,Online
+10109,2024-02-27,South,Electronics,Headphones,3,120.14,0.0,360.42,C1017,Online
+10110,2024-02-28,East,Office,Notebook,2,7.54,0.15,12.82,C1073,Retail
+10111,2024-02-29,East,Office,Printer,2,176.78,0.05,335.87,C1279,Retail
+10112,2024-03-01,East,Software,Cloud Plan,2,97.27,0.15,165.36,C1070,Online
+10113,2024-03-01,East,Electronics,Laptop,3,878.65,0.15,2240.55,C1224,Online
+10114,2024-03-02,North,Electronics,Headphones,5,116.75,0.0,583.74,C1236,Retail
+10115,2024-03-02,West,Electronics,Headphones,2,122.84,0.0,245.69,C1155,Online
+10116,2024-03-02,West,Electronics,Laptop,2,965.39,0.0,1930.78,C1197,Retail
+10117,2024-03-02,East,Software,Cloud Plan,2,91.96,0.0,183.92,C1240,Partner
+10118,2024-03-02,North,Furniture,Desk,2,302.54,0.15,514.33,C1082,Online
+10119,2024-03-03,North,Electronics,Headphones,1,121.25,0.0,121.25,C1023,Retail
+10120,2024-03-03,East,Electronics,Laptop,1,876.77,0.05,832.93,C1293,Partner
+10121,2024-03-03,North,Electronics,Headphones,7,128.83,0.0,901.78,C1097,Online
+10122,2024-03-04,West,Office,Notebook,1,7.71,0.0,7.71,C1251,Retail
+10123,2024-03-05,South,Furniture,Chair,5,140.16,0.0,700.82,C1146,Partner
+10124,2024-03-05,East,Office,Printer,1,179.4,0.05,170.43,C1040,Online
+10125,2024-03-06,West,Electronics,Headphones,1,129.59,0.15,110.15,C1018,Online
+10126,2024-03-06,South,Office,Notebook,5,8.55,0.0,42.77,C1057,Online
+10127,2024-03-06,South,Electronics,Headphones,1,116.38,0.15,98.92,C1130,Retail
+10128,2024-03-07,East,Software,Cloud Plan,3,100.27,0.1,270.74,C1020,Online
+10129,2024-03-07,East,Electronics,Headphones,5,115.06,0.15,489.0,C1156,Online
+10130,2024-03-07,South,Software,Antivirus,6,37.46,0.0,224.77,C1267,Online
+10131,2024-03-08,East,Electronics,Laptop,3,875.37,0.05,2494.8,C1203,Retail
+10132,2024-03-08,West,Electronics,Laptop,3,912.26,0.0,2736.78,C1098,Online
+10133,2024-03-09,South,Furniture,Chair,1,159.42,0.15,135.51,C1256,Online
+10134,2024-03-09,North,Furniture,Chair,8,138.24,0.05,1050.65,C1168,Online
+10135,2024-03-09,South,Software,Cloud Plan,1,94.08,0.0,94.08,C1209,Partner
+10136,2024-03-10,South,Electronics,Laptop,1,961.48,0.1,865.33,C1022,Retail
+10137,2024-03-10,North,Electronics,Headphones,6,126.42,0.15,644.75,C1151,Online
+10138,2024-03-10,North,Office,Printer,1,180.32,0.0,180.32,C1185,Retail
+10139,2024-03-10,East,Office,Notebook,6,7.43,0.0,44.6,C1158,Online
+10140,2024-03-10,South,Software,Cloud Plan,5,99.89,0.15,424.53,C1045,Online
+10141,2024-03-10,West,Electronics,Phone,2,552.68,0.0,1105.36,C1012,Online
+10142,2024-03-11,North,Software,Antivirus,6,41.15,0.0,246.88,C1009,Partner
+10143,2024-03-12,North,Office,Notebook,1,8.56,0.0,8.56,C1237,Online
+10144,2024-03-13,East,Office,Notebook,5,7.73,0.0,38.64,C1238,Online
+10145,2024-03-14,West,Furniture,Chair,7,151.26,0.0,1058.79,C1132,Retail
+10146,2024-03-15,North,Software,Cloud Plan,5,98.04,0.05,465.69,C1088,Online
+10147,2024-03-15,North,Software,Cloud Plan,5,96.67,0.05,459.19,C1256,Online
+10148,2024-03-15,North,Office,Notebook,6,8.19,0.0,49.11,C1155,Retail
+10149,2024-03-16,South,Software,Cloud Plan,5,102.16,0.15,434.19,C1229,Online
+10150,2024-03-16,South,Software,Cloud Plan,2,93.19,0.0,186.38,C1279,Retail
+10151,2024-03-16,North,Furniture,Desk,1,278.34,0.0,278.34,C1142,Online
+10152,2024-03-17,North,Office,Notebook,2,7.65,0.1,13.77,C1102,Online
+10153,2024-03-17,South,Software,Cloud Plan,5,90.82,0.0,454.12,C1255,Partner
+10154,2024-03-18,West,Office,Notebook,6,8.02,0.0,48.15,C1156,Online
+10155,2024-03-18,East,Software,Cloud Plan,9,90.2,0.0,811.83,C1092,Online
+10156,2024-03-18,South,Electronics,Phone,2,630.73,0.0,1261.46,C1013,Retail
+10157,2024-03-19,North,Furniture,Chair,6,155.34,0.05,885.43,C1241,Online
+10158,2024-03-19,North,Software,Antivirus,7,37.08,0.0,259.59,C1001,Online
+10159,2024-03-19,North,Software,Cloud Plan,1,87.46,0.1,78.71,C1059,missing
+10160,2024-03-20,East,Office,Notebook,5,8.15,0.0,40.74,C1252,Partner
+10161,2024-03-20,West,Office,Notebook,9,7.72,0.0,69.44,C1031,Partner
+10162,2024-03-20,West,Office,Printer,2,182.56,0.05,346.87,C1078,Online
+10163,2024-03-21,West,Electronics,Headphones,2,110.98,0.1,199.76,C1226,Online
+10164,2024-03-22,West,Furniture,Desk,2,317.24,0.0,634.48,C1162,Online
+10165,2024-03-22,West,Electronics,Laptop,2,850.83,0.0,1701.66,C1063,Partner
+10166,2024-03-22,North,Software,Antivirus,2,38.34,0.1,69.01,C1290,Retail
+10167,2024-03-24,North,Furniture,Desk,5,305.32,0.15,1297.61,C1171,Online
+10168,2024-03-24,South,Electronics,Laptop,2,852.62,0.1,1534.72,C1228,Online
+10169,2024-03-24,East,Software,Antivirus,1,40.74,0.0,40.74,C1180,Online
+10170,2024-03-24,North,Furniture,Desk,1,296.33,0.1,266.7,C1145,Online
+10171,2024-03-24,West,Software,Antivirus,2,38.36,0.0,76.72,C1045,Online
+10172,2024-03-25,East,Office,Printer,14,186.74,0.05,2483.71,C1202,Online
+10173,2024-03-25,South,Software,Cloud Plan,9,99.55,0.15,761.56,C1050,Partner
+10174,2024-03-25,North,Electronics,Phone,2,628.4,0.1,1131.11,C1008,Online
+10175,2024-03-26,North,Electronics,Headphones,3,124.17,0.15,316.63,C1025,Online
+10176,2024-03-27,North,Furniture,Desk,2,298.3,0.1,536.94,C1003,missing
+10177,2024-03-27,West,Software,Cloud Plan,1,92.37,0.15,78.51,C1017,Retail
+10178,2024-03-27,East,Furniture,Desk,10,307.78,0.0,3077.78,C1242,Partner
+10179,2024-03-27,East,Electronics,Headphones,6,126.45,0.15,644.91,C1104,Retail
+10180,2024-03-28,North,Electronics,Headphones,3,110.85,0.0,332.54,C1147,Online
+10181,2024-03-28,South,Electronics,Headphones,2,110.7,0.0,221.4,C1006,Online
+10182,2024-03-28,South,Office,Printer,3,192.55,0.1,519.88,C1066,Online
+10183,2024-03-28,East,Furniture,Desk,6,296.54,0.05,1690.25,C1009,Retail
+10184,2024-03-28,East,Furniture,Desk,6,291.74,0.0,1750.42,C1085,Online
+10185,2024-03-28,North,Office,Notebook,6,7.41,0.0,44.47,C1287,Online
+10186,2024-03-30,West,Office,Printer,2,172.4,0.1,310.33,C1281,Online
+10187,2024-03-30,North,Office,Notebook,3,7.64,0.0,22.92,C1140,Online
+10188,2024-03-30,West,Office,Notebook,2,8.58,0.0,17.15,C1049,Online
+10189,2024-03-30,North,Furniture,Chair,1,142.89,0.05,135.74,C1299,Online
+10190,2024-03-31,North,Electronics,Laptop,7,830.88,,4943.72,C1173,Retail
+10191,2024-03-31,West,Software,Cloud Plan,2,91.27,0.1,164.29,C1156,Partner
+10192,2024-04-01,North,Office,Printer,1,177.12,0.0,177.12,C1128,Retail
+10193,2024-04-02,South,Office,Notebook,7,8.04,0.0,56.27,C1142,Partner
+10194,2024-04-03,South,Furniture,Chair,5,145.32,0.0,726.59,C1259,Online
+10195,2024-04-03,North,Software,Cloud Plan,3,90.55,0.0,271.66,C1272,Online
+10196,2024-04-03,East,Office,Notebook,2,7.41,0.05,14.07,C1087,Online
+10197,2024-04-03,West,Electronics,Phone,1,559.01,0.0,559.01,C1182,Online
+10198,2024-04-04,West,Software,Antivirus,7,37.38,0.0,261.68,C1013,Partner
+10199,2024-04-04,South,Software,Cloud Plan,2,89.01,0.0,178.02,C1208,Online
+10200,2024-04-04,South,Electronics,Phone,2,599.8,0.0,1199.61,C1188,Online
+10201,2024-04-05,North,Furniture,Chair,1,142.73,0.15,121.32,C1016,Online
+10202,2024-04-06,North,Furniture,Chair,3,140.1,0.1,378.26,C1065,Online
+10203,2024-04-06,North,Furniture,Desk,3,323.54,0.15,825.03,C1097,Online
+10204,2024-04-06,West,Electronics,Headphones,2,119.1,0.0,238.2,C1080,Partner
+10205,2024-04-08,West,Electronics,Phone,2,603.69,0.05,1147.0,C1048,Retail
+10206,2024-04-08,East,Electronics,Headphones,1,128.25,0.0,128.25,C1127,Online
+10207,2024-04-08,South,Electronics,Phone,2,595.47,0.15,1012.29,C1058,Online
+10208,2024-04-09,South,Software,Cloud Plan,6,101.79,0.1,549.68,C1231,Online
+10209,2024-04-10,South,Electronics,Phone,5,589.7,0.05,2801.08,C1226,Online
+10210,2024-04-10,South,Software,Cloud Plan,2,91.35,0.05,173.56,C1024,Partner
+10211,2024-04-11,South,Office,Printer,6,181.36,0.05,1033.74,C1240,Partner
+10212,2024-04-12,North,Office,Printer,2,182.48,0.0,364.96,C1221,Partner
+10213,2024-04-12,North,Electronics,Headphones,2,117.94,0.0,235.89,C1008,Online
+10214,2024-04-12,West,Office,Notebook,2,7.56,0.05,14.36,C1088,Online
+10215,2024-04-12,South,Furniture,Chair,2,160.16,,288.28,C1053,Online
+10216,2024-04-12,West,Office,Printer,2,170.97,0.15,290.65,C1044,Retail
+10217,2024-04-12,North,Software,Cloud Plan,5,91.88,0.15,390.51,C1213,Retail
+10218,2024-04-12,East,Software,Antivirus,6,38.86,0.05,221.49,C1106,Online
+10219,2024-04-12,North,Furniture,Chair,5,160.83,0.0,804.13,C1155,missing
+10220,2024-04-13,North,Office,Printer,5,186.66,0.15,793.29,C1037,Partner
+10221,2024-04-13,North,Office,Printer,2,188.52,0.0,377.03,C1114,Online
+10222,2024-04-14,North,Electronics,Laptop,2,927.42,0.0,1854.84,C1147,Online
+10223,2024-04-14,West,Furniture,Chair,1,151.94,0.05,144.34,C1272,Online
+10224,2024-04-15,South,Furniture,Desk,5,301.14,0.0,1505.71,C1213,Online
+10225,2024-04-15,East,Furniture,Desk,10,298.06,0.1,2682.52,C1269,Retail
+10226,2024-04-15, South ,Electronics,Headphones,3,119.7,0.1,323.19,C1050,Online
+10227,2024-04-15,South,Electronics,Laptop,5,932.21,0.0,4661.05,C1265,missing
+10228,2024-04-16,South,Electronics,Headphones,2,125.88,0.0,251.76,C1274,Online
+10229,2024-04-16,North,Electronics,Headphones,3,119.02,0.0,357.05,C1034,Retail
+10230,2024-04-18,West,Electronics,Laptop,3,838.25,0.1,2263.27,C1224,Online
+10231,2024-04-18,West,Electronics,Phone,3,635.78,0.1,1716.62,C1292,Online
+10232,2024-04-18,East,Office,Notebook,3,7.45,0.1,20.1,C1187,Retail
+10233,2024-04-18,South,Software,Cloud Plan,5,94.64,0.15,402.22,C1058,Retail
+10234,2024-04-20,North,Electronics,Laptop,2,854.89,0.0,1709.79,C1252,Online
+10235,2024-04-20,West,Software,Antivirus,7,38.59,0.05,256.59,C1244,Retail
+10236,2024-04-20,South,Office,Printer,3,179.38,0.15,457.42,C1152,Partner
+10237,2024-04-20,North,Electronics,Phone,1,619.2,0.15,526.32,C1106,Retail
+10238,2024-04-21,South,Electronics,Laptop,5,850.5,0.15,3614.64,C1077,Online
+10239,2024-04-22,East,Office,Notebook,5,8.4,0.15,35.68,C1141,Retail
+10240,2024-04-22,East,Software,Antivirus,2,36.88,0.0,73.76,C1231,Retail
+10241,2024-04-22,East,Furniture,Chair,2,157.15,0.05,298.59,C1185,Partner
+10242,2024-04-22,East,Office,Notebook,3,7.87,0.15,20.06,C1245,Retail
+10243,2024-04-22,North,Electronics,Laptop,5,934.77,0.15,3972.77,C1142,Retail
+10244,2024-04-22,West,Electronics,Laptop,3,831.59,0.0,2494.78,C1204,Online
+10245,2024-04-23,South,Office,Printer,6,192.95,0.1,1041.93,C1196,Online
+10246,2024-04-23,East,Software,Antivirus,3,42.89,0.1,115.81,C1226,Retail
+10247,2024-04-23,North,Software,Cloud Plan,2,98.72,0.05,187.57,C1043,Online
+10248,2024-04-24,West,Electronics,Headphones,2,120.23,0.0,240.46,C1127,Online
+10249,2024-04-25,North,Software,Cloud Plan,2,87.8,0.0,175.6,C1141,Retail
+10250,2024-04-25,North,Software,Cloud Plan,5,89.74,0.0,448.72,C1074,Online
+10251,2024-04-27,South,Furniture,Chair,6,142.33,0.05,811.27,C1081,Online
+10252,2024-04-27,North,Office,Printer,3,176.42,0.15,449.86,C1214,Online
+10253,2024-04-27,North,Electronics,Headphones,1,125.28,0.0,125.28,C1000,Online
+10254,2024-04-28,East,Electronics,Phone,3,610.91,0.0,1832.72,C1170,Online
+10255,2024-04-29,South,Electronics,Laptop,7,872.37,0.0,6106.59,C1088,Online
+10256,2024-04-30,West,Electronics,Laptop,2,954.42,0.0,1908.84,C1205,Online
+10257,2024-04-30,South,Office,Notebook,7,7.39,0.1,46.53,C1175,Online
+10258,2024-04-30,East,Software,Cloud Plan,3,93.7,0.05,267.06,C1178,Retail
+10259,2024-05-01,South,Software,Antivirus,3,38.31,0.15,97.68,C1148,Retail
+10260,2024-05-01,East,Furniture,Chair,6,157.88,0.0,947.3,C1184,Retail
+10261,2024-05-01,East,Electronics,Laptop,5,869.53,0.0,4347.64,C1081,Online
+10262,2024-05-01,South,Furniture,Desk,1,317.1,0.05,301.24,C1201,Retail
+10263,2024-05-02,West,Furniture,Desk,2,282.27,0.0,564.54,C1226,Online
+10264,2024-05-02, South ,Office,Printer,1,190.87,0.05,181.33,C1068,missing
+10265,2024-05-03,North,Electronics,Laptop,1,937.9,0.05,891.0,C1124,Retail
+10266,2024-05-04,East,Software,Antivirus,5,40.37,0.1,181.67,C1191,Retail
+10267,2024-05-04,West,Furniture,Desk,3,300.15,0.0,900.45,C1109,Online
+10268,2024-05-05,North,Electronics,Phone,3,599.37,0.15,1528.4,C1037,Online
+10269,2024-05-05,South,Electronics,Headphones,1,123.52,0.05,117.34,C1202,Online
+10270,2024-05-06,West,Office,Printer,1,186.45,0.1,167.81,C1110,Partner
+10271,2024-05-06,East,Electronics,Headphones,5,115.67,0.1,520.49,C1166,Retail
+10272,2024-05-07,West,Electronics,Laptop,3,851.44,0.15,2171.16,C1275,Online
+10273,2024-05-07,South,Electronics,Laptop,11,925.62,0.15,8654.53,C1149,Retail
+10274,2024-05-08,East,Electronics,Phone,2,645.89,0.0,1291.78,C1003,Retail
+10275,2024-05-08,South,Software,Antivirus,5,43.11,0.1,194.01,C1031,Partner
+10276,2024-05-09,West,Software,Antivirus,2,41.12,0.0,82.24,C1174,Online
+10277,2024-05-09,South,Furniture,Desk,5,300.58,,1352.63,C1186,Retail
+10278,2024-05-09,East,Electronics,Phone,2,577.44,0.0,1154.88,C1160,Retail
+10279,2024-05-09,South,Electronics,Laptop,2,877.01,0.05,1666.32,C1060,Online
+10280,2024-05-11,East,Furniture,Desk,5,289.1,0.0,1445.51,C1060,Retail
+10281,2024-05-11,East,Electronics,Headphones,3,112.79,0.15,287.61,C1172,Online
+10282,2024-05-12,South,Office,Printer,1,178.7,0.15,151.89,C1031,Retail
+10283,2024-05-12,West,Electronics,Phone,1,635.99,0.05,604.19,C1091,Online
+10284,2024-05-12,South,Electronics,Laptop,1,848.49,0.1,763.64,C1210,Partner
+10285,2024-05-12,East,Software,Antivirus,6,37.1,0.05,211.46,C1256,Retail
+10286,2024-05-13,South,Furniture,Chair,5,155.45,0.0,777.24,C1071,Retail
+10287,2024-05-13,South,Software,Cloud Plan,2,94.15,0.15,160.06,C1089,Online
+10288,2024-05-14,South,Furniture,Desk,6,292.63,0.0,1755.77,C1255,Retail
+10289,2024-05-15,North,Furniture,Desk,3,283.13,0.1,764.46,C1021,Online
+10290,2024-05-16,North,Software,Antivirus,3,40.67,0.0,122.02,C1191,missing
+10291,2024-05-17,East,Office,Notebook,1,8.23,0.0,8.23,C1039,Retail
+10292,2024-05-17,East,Electronics,Laptop,1,940.2,0.0,940.2,C1067,Online
+10293,2024-05-18,East,Office,Notebook,1,8.47,0.0,8.47,C1158,Online
+10294,2024-05-20,North,Furniture,Chair,2,151.08,0.15,256.83,C1274,Online
+10295,2024-05-20,South,Furniture,Chair,3,160.13,0.0,480.38,C1170,Online
+10296,2024-05-20,North,Office,Notebook,1,7.87,0.1,7.08,C1005,Online
+10297,2024-05-21,East,Electronics,Phone,1,593.34,0.1,534.0,C1196,Online
+10298,2024-05-22,West,Software,Cloud Plan,4,96.3,0.15,327.41,C1041,Online
+10299,2024-05-22,North,Electronics,Headphones,3,115.67,0.05,329.65,C1143,Retail
+10300,2024-05-22,East,Office,Printer,1,171.61,0.05,163.03,C1094,Retail
+10301,2024-05-23,North,Office,Notebook,6,7.88,0.0,47.3,C1282,Online
+10302,2024-05-23,North,Electronics,Laptop,4,900.09,0.0,3600.35,C1112,Online
+10303,2024-05-24,North,Furniture,Chair,6,142.29,,768.39,C1222,Online
+10304,2024-05-26,North,Software,Cloud Plan,1,87.56,0.0,87.56,C1004,Online
+10305,2024-05-26,East,Electronics,Headphones,2,118.64,0.0,237.28,C1196,Online
+10306,2024-05-26,West,Office,Notebook,2,8.3,0.0,16.59,C1038,Online
+10307,2024-05-27,North,Office,Printer,3,166.27,0.15,423.99,C1232,Retail
+10308,2024-05-27,South,Electronics,Phone,3,574.83,0.0,1724.5,C1156,Retail
+10309,2024-05-27,East,Furniture,Chair,3,151.31,0.05,431.22,C1044,Retail
+10310,2024-05-27,West,Office,Notebook,3,8.46,0.0,25.38,C1192,Online
+10311,2024-05-27,East,Electronics,Headphones,3,118.89,0.15,303.17,C1151,Partner
+10312,2024-05-27,North,Office,Printer,6,173.91,0.05,991.28,C1074,Online
+10313,2024-05-28,East,Electronics,Headphones,6,119.34,0.05,680.24,C1276,Online
+10314,2024-05-31,South,Furniture,Chair,3,144.62,0.0,433.85,C1196,Retail
+10315,2024-06-01,West,Electronics,Phone,4,624.74,0.1,2249.07,C1109,Retail
+10316,2024-06-01,South,Office,Printer,1,190.32,0.0,190.32,C1188,missing
+10317,2024-06-05,East,Software,Cloud Plan,5,96.45,0.15,409.9,C1294,Online
+10318,2024-06-06,North,Electronics,Phone,2,575.33,0.15,978.06,C1210,Online
+10319,2024-06-08,South,Electronics,Laptop,1,861.93,0.0,861.93,C1111,Online
+10320,2024-06-09,West,Electronics,Phone,1,612.16,0.1,550.94,C1206,Retail
+10321,2024-06-09,East,Furniture,Chair,4,149.16,0.1,536.98,C1093,Online
+10322,2024-06-11,South,Electronics,Laptop,2,919.17,0.0,1838.33,C1136,Partner
+10323,2024-06-12,West,Office,Notebook,2,7.81,0.15,13.29,C1141,Online
+10324,2024-06-13,West,Office,Notebook,2,8.21,,16.42,C1196,Retail
+10325,2024-06-14,South,Office,Notebook,3,8.26,0.15,21.06,C1217,Online
+10326,2024-06-15,South,Electronics,Headphones,8,119.74,0.05,910.06,C1236,Online
+10327,2024-06-15,South,Office,Notebook,1,7.39,0.15,6.28,C1255,Online
+10328,2024-06-16,East,Furniture,Desk,4,285.51,0.1,1027.84,C1065,Online
+10329,2024-06-17,South,Furniture,Desk,3,287.8,0.1,777.05,C1294,Online
+10330,2024-06-17,North,Furniture,Desk,4,281.77,0.05,1070.74,C1152,Online
+10331,2024-06-19, West ,Electronics,Laptop,3,871.5,0.0,2614.49,C1107,Online
+10332,2024-06-19,West,Furniture,Desk,4,292.5,0.0,1169.98,C1142,Online
+10333,2024-06-19,West,Office,Notebook,2,7.58,0.15,12.89,C1279,Online
+10334,2024-06-19,West,Office,Printer,3,192.6,0.05,548.9,C1135,Partner
+10335,2024-06-20,East,Office,Notebook,5,8.24,0.15,35.03,C1184,Retail
+10336,2024-06-20,East,Furniture,Chair,3,144.91,0.0,434.74,C1225,Partner
+10337,2024-06-20,East,Electronics,Headphones,2,128.19,0.05,243.55,C1151,Retail
+10338,2024-06-21,South,Electronics,Laptop,1,907.82,0.05,862.43,C1193,Online
+10339,2024-06-21,South,Software,Antivirus,2,43.05,0.0,86.1,C1143,Partner
+10340,2024-06-21,North,Furniture,Chair,4,138.96,0.0,555.83,C1223,Online
+10341,2024-06-22,East,Software,Cloud Plan,4,101.02,0.15,343.46,C1142,Online
+10342,2024-06-22,North,Electronics,Phone,5,583.18,0.0,2915.88,C1260,Retail
+10343,2024-06-22,North,Office,Notebook,2,7.83,0.1,14.09,C1214,Retail
+10344,2024-06-23,East,Software,Cloud Plan,1,90.05,0.0,90.05,C1074,Online
+10345,2024-06-23,South,Furniture,Desk,2,301.36,0.0,602.72,C1202,Online
+10346,2024-06-23,North,Software,Antivirus,4,40.2,0.0,160.78,C1049,Partner
+10347,2024-06-24,West,Software,Cloud Plan,3,94.13,,254.16,C1051,Online
+10348,2024-06-24,West,Furniture,Desk,1,276.95,0.0,276.95,C1046,Online
+10349,2024-06-24,North,Furniture,Desk,5,287.76,0.0,1438.82,C1087,Online
+10350,2024-06-25,North,Electronics,Phone,1,561.48,0.05,533.41,C1239,Online
+10351,2024-06-25,South,Electronics,Phone,4,570.53,0.1,2053.89,C1213,Retail
+10352,2024-06-25,East,Electronics,Phone,2,594.01,0.0,1188.02,C1032,Online
+10353,2024-06-25,West,Furniture,Desk,2,307.35,0.1,553.22,C1246,Online
+10354,2024-06-27,North,Electronics,Phone,5,629.19,0.0,3145.94,C1297,Retail
+10355,2024-06-27,East,Electronics,Phone,1,637.02,0.1,573.32,C1098,Partner
+10356,2024-06-27,North,Software,Antivirus,7,42.92,0.05,285.42,C1170,Partner
+10357,2024-06-28,South,Electronics,Headphones,2,129.33,0.0,258.67,C1235,Retail
+10358,2024-06-28,West,Electronics,Phone,6,583.88,0.1,3152.96,C1095,Online
+10359,2024-06-28,North,Office,Notebook,2,8.15,0.0,16.29,C1189,Partner
+10360,2024-06-28,North,Electronics,Headphones,2,115.81,0.0,231.62,C1085,Online
+10361,2024-06-28,South,Furniture,Chair,3,138.96,0.1,375.19,C1190,Partner
+10362,2024-06-29,East,Electronics,Phone,5,566.05,0.0,2830.27,C1084,Online
+10363,2024-06-30,West,Furniture,Desk,4,313.23,0.1,1127.62,C1012,Partner
+10364,2024-06-30,West,Office,Printer,6,167.6,0.0,1005.6,C1187,Partner
+10365,2024-07-01,North,Software,Cloud Plan,4,96.45,0.15,327.94,C1042,missing
+10366,2024-07-01,North,Software,Antivirus,3,39.54,0.15,100.82,C1147,Online
+10367,2024-07-02,East,Office,Printer,3,184.33,0.05,525.33,C1248,Online
+10368,2024-07-02,North,Office,Printer,2,171.04,0.1,307.87,C1059,Online
+10369,2024-07-04,West,Software,Antivirus,4,40.4,0.0,161.58,C1093,Online
+10370,2024-07-05,East,Office,Notebook,2,8.23,0.0,16.47,C1036,Retail
+10371,2024-07-05,North,Furniture,Chair,2,141.92,0.0,283.84,C1232,Online
+10372,2024-07-05,West,Electronics,Headphones,1,119.4,0.1,107.46,C1038,missing
+10373,2024-07-06,North,Furniture,Chair,2,147.24,0.15,250.3,C1279,Retail
+10374,2024-07-07,South,Software,Antivirus,4,42.74,0.15,145.31,C1110,Online
+10375,2024-07-08,East,Software,Cloud Plan,2,90.5,0.0,181.01,C1243,Retail
+10376,2024-07-09,South,Office,Notebook,4,7.71,0.15,26.2,C1011,Retail
+10377,2024-07-10,East,Electronics,Phone,3,641.44,0.0,1924.32,C1019,Retail
+10378,2024-07-11,East,Electronics,Laptop,1,934.55,0.0,934.55,C1043,Online
+10379,2024-07-11,West,Furniture,Chair,1,140.32,0.1,126.29,C1283,Online
+10380,2024-07-11,West,Office,Notebook,3,7.63,0.0,22.88,C1026,Online
+10381,2024-07-13,South,Furniture,Desk,3,318.42,0.1,859.75,C1223,Online
+10382,2024-07-13,North,Office,Printer,4,174.91,0.0,699.66,C1165,Online
+10383,2024-07-13,East,Furniture,Desk,3,281.41,0.05,802.02,C1120,Retail
+10384,2024-07-14,West,Office,Notebook,2,8.05,0.0,16.1,C1061,Online
+10385,2024-07-14,South,Electronics,Headphones,3,113.2,0.05,322.61,C1202,Online
+10386,2024-07-15,South,Software,Cloud Plan,5,90.41,0.0,452.06,C1124,Retail
+10387,2024-07-15,South,Electronics,Headphones,1,122.05,0.0,122.05,C1288,Online
+10388,2024-07-15,North,Office,Notebook,5,8.06,0.05,38.31,C1291,Online
+10389,2024-07-16,East,Electronics,Laptop,4,923.34,0.0,3693.36,C1278,Online
+10390,2024-07-16,South,Electronics,Laptop,2,962.32,0.0,1924.63,C1220,Partner
+10391,2024-07-17,East,Electronics,Laptop,3,830.7,0.0,2492.1,C1294,Retail
+10392,2024-07-18,West,Software,Cloud Plan,5,98.01,0.1,441.06,C1020,Online
+10393,2024-07-19,West,Office,Notebook,2,7.91,,13.44,C1170,Retail
+10394,2024-07-19,South,Software,Antivirus,2,40.48,0.05,76.91,C1086,Partner
+10395,2024-07-19,South,Furniture,Chair,1,151.36,0.05,143.79,C1128,Retail
+10396,2024-07-20,East,Electronics,Phone,3,579.54,0.1,1564.76,C1025,Retail
+10397,2024-07-21,West,Electronics,Headphones,3,118.9,0.15,303.2,C1182,Retail
+10398,2024-07-21,South,Office,Notebook,2,7.75,0.0,15.5,C1045,Online
+10399,2024-07-21,West,Office,Notebook,1,7.7,0.0,7.7,C1168,missing
+10400,2024-07-22,North,Office,Printer,3,176.42,0.1,476.32,C1297,Online
+10401,2024-07-22,West,Software,Antivirus,3,39.65,0.1,107.05,C1273,Retail
+10402,2024-07-23,North,Electronics,Headphones,1,118.44,0.1,106.59,C1087,Online
+10403,2024-07-24,North,Electronics,Phone,6,618.82,0.1,3341.63,C1164,Online
+10404,2024-07-24,South,Software,Cloud Plan,4,96.19,0.0,384.75,C1224,Online
+10405,2024-07-24,North,Electronics,Phone,4,558.7,,2234.82,C1160,Partner
+10406,2024-07-24,North,Office,Notebook,2,7.52,0.0,15.04,C1103,Online
+10407,2024-07-25,North,Electronics,Headphones,4,124.97,0.1,449.87,C1184,Retail
+10408,2024-07-26,South,Office,Notebook,1,8.24,0.15,7.0,C1154,Partner
+10409,2024-07-26,East,Electronics,Headphones,1,112.33,0.0,112.33,C1020,Partner
+10410,2024-07-26,North,Software,Cloud Plan,3,97.29,,248.08,C1178,Retail
+10411,2024-07-27,East,Software,Cloud Plan,7,89.77,0.0,628.39,C1269,Retail
+10412,2024-07-27,West,Electronics,Laptop,2,965.37,0.0,1930.75,C1227,Retail
+10413,2024-07-27,North,Office,Notebook,2,7.47,0.05,14.19,C1071,Online
+10414,2024-07-28,North,Electronics,Laptop,4,935.23,0.15,3179.78,C1193,Retail
+10415,2024-07-29,West,Software,Antivirus,2,42.41,0.0,84.81,C1011,Retail
+10416,2024-07-29,West,Furniture,Desk,8,280.21,0.1,2017.48,C1299,Retail
+10417,2024-07-29,South,Office,Notebook,3,7.53,0.1,20.33,C1272,Retail
+10418,2024-07-29,West,Furniture,Chair,6,152.53,0.05,869.4,C1101,Online
+10419,2024-07-29,North,Electronics,Headphones,4,123.44,0.0,493.75,C1105,Online
+10420,2024-07-30,South,Office,Notebook,2,8.28,0.15,14.08,C1142,Online
+10421,2024-07-30,East,Furniture,Chair,3,157.0,0.1,423.91,C1164,Online
+10422,2024-07-30,North,Software,Cloud Plan,2,94.6,0.05,179.73,C1183,Retail
+10423,2024-07-31,East,Furniture,Desk,2,318.68,0.15,541.76,C1235,Partner
+10424,2024-08-01,South,Software,Antivirus,1,38.41,0.0,38.41,C1186,Retail
+10425,2024-08-02,East,Furniture,Chair,1,151.31,0.0,151.31,C1193,Retail
+10426,2024-08-02,South,Office,Printer,1,189.4,0.0,189.4,C1182,Online
+10427,2024-08-03,South,Electronics,Phone,1,566.88,0.05,538.53,C1052,Retail
+10428,2024-08-03,North,Electronics,Laptop,2,860.18,0.0,1720.37,C1116,Online
+10429,2024-08-04,North,Software,Antivirus,3,37.34,0.1,100.83,C1233,Online
+10430,2024-08-04,East,Software,Antivirus,1,37.19,0.05,35.33,C1210,Retail
+10431,2024-08-05,North,Furniture,Desk,2,318.31,0.1,572.95,C1288,Online
+10432,2024-08-05,North,Furniture,Chair,4,144.34,0.0,577.36,C1210,Retail
+10433,2024-08-06,North,Electronics,Laptop,3,908.86,0.0,2726.57,C1297,Online
+10434,2024-08-06,North,Electronics,Phone,2,577.68,0.0,1155.37,C1289,Retail
+10435,2024-08-06,West,Office,Printer,1,169.85,0.05,161.36,C1079,Online
+10436,2024-08-06,South,Office,Printer,2,184.38,0.0,368.76,C1158,Retail
+10437,2024-08-07,West,Furniture,Desk,1,279.61,0.0,279.61,C1046,Online
+10438,2024-08-07,North,Electronics,Headphones,3,115.02,0.1,310.56,C1116,Online
+10439,2024-08-07, East ,Software,Antivirus,2,43.0,0.0,86.0,C1199,Online
+10440,2024-08-08,South,Furniture,Desk,1,292.15,0.15,248.33,C1121,Partner
+10441,2024-08-08,South,Furniture,Desk,7,281.2,0.05,1869.95,C1136,Online
+10442,2024-08-08,West,Office,Printer,6,167.36,0.0,1004.13,C1051,Online
+10443,2024-08-08,West,Electronics,Phone,6,567.02,0.0,3402.09,C1261,Online
+10444,2024-08-08,West,Electronics,Phone,1,568.69,0.15,483.38,C1082,Partner
+10445,2024-08-08,North,Software,Antivirus,1,42.64,0.05,40.51,C1135,Online
+10446,2024-08-10,North,Office,Printer,1,180.83,0.15,153.7,C1095,Online
+10447,2024-08-10,East,Furniture,Desk,1,302.16,0.0,302.16,C1011,Online
+10448,2024-08-10,North,Office,Notebook,1,8.5,0.15,7.22,C1277,Online
+10449,2024-08-11,East,Software,Antivirus,1,39.92,0.0,39.92,C1275,Online
+10450,2024-08-11,East,Electronics,Laptop,2,944.77,0.0,1889.53,C1032,Online
+10451,2024-08-11,East,Electronics,Headphones,1,121.4,0.1,109.26,C1240,Online
+10452,2024-08-12,West,Electronics,Headphones,1,124.4,0.0,124.4,C1015,Retail
+10453,2024-08-13,East,Software,Cloud Plan,1,93.09,0.0,93.09,C1191,Online
+10454,2024-08-14,North,Office,Printer,3,189.93,,569.78,C1012,Retail
+10455,2024-08-14,North,Electronics,Phone,3,588.73,0.1,1589.58,C1039,Partner
+10456,2024-08-14,East,Electronics,Laptop,1,880.47,0.0,880.47,C1074,Online
+10457,2024-08-15,South,Electronics,Laptop,1,905.01,0.0,905.01,C1192,Retail
+10458,2024-08-16,North,Electronics,Laptop,1,863.55,0.0,863.55,C1048,Online
+10459,2024-08-16,South,Electronics,Phone,5,561.2,0.1,2525.42,C1241,Retail
+10460,2024-08-16,East,Furniture,Chair,1,148.14,0.0,148.14,C1153,Online
+10461,2024-08-17,West,Software,Antivirus,4,41.21,0.1,148.36,C1138,Online
+10462,2024-08-17,East,Office,Printer,4,177.83,0.15,604.63,C1291,Online
+10463,2024-08-17,South,Electronics,Phone,4,602.67,0.1,2169.61,C1186,Retail
+10464,2024-08-17,North,Software,Antivirus,1,38.05,0.0,38.05,C1032,Retail
+10465,2024-08-18,South,Electronics,Phone,3,596.16,0.0,1788.47,C1044,Retail
+10466,2024-08-18,South,Furniture,Desk,1,277.51,0.0,277.51,C1146,Online
+10467,2024-08-18,East,Office,Printer,2,172.73,0.05,328.19,C1130,Online
+10468,2024-08-19,East,Electronics,Laptop,1,849.01,0.05,806.56,C1046,Online
+10469,2024-08-19,North,Furniture,Desk,2,319.58,0.0,639.16,C1022,Online
+10470,2024-08-19,North,Office,Notebook,1,8.08,0.15,6.87,C1050,Online
+10471,2024-08-19,North,Electronics,Headphones,3,128.4,0.05,365.94,C1128,Online
+10472,2024-08-20,West,Software,Cloud Plan,1,97.29,0.15,82.7,C1028,Online
+10473,2024-08-20,East,Electronics,Headphones,1,123.93,0.0,123.93,C1240,missing
+10474,2024-08-21,North,Electronics,Headphones,1,114.65,0.05,108.92,C1020,Retail
+10475,2024-08-21,West,Electronics,Laptop,1,922.52,0.0,922.52,C1230,Online
+10476,2024-08-22,South,Furniture,Desk,6,316.25,0.0,1897.53,C1284,Online
+10477,2024-08-22,South,Office,Printer,2,188.77,0.15,320.91,C1149,Online
+10478,2024-08-22,West,Electronics,Phone,3,560.53,0.1,1513.43,C1097,Partner
+10479,2024-08-22,North,Electronics,Headphones,4,123.68,,494.73,C1113,Partner
+10480,2024-08-23,North,Electronics,Phone,2,569.69,0.05,1082.41,C1135,Partner
+10481,2024-08-24,East,Furniture,Desk,2,298.54,0.05,567.22,C1045,Retail
+10482,2024-08-25,North,Software,Cloud Plan,4,100.79,0.15,342.68,C1221,Retail
+10483,2024-08-25,East,Software,Cloud Plan,2,99.0,0.05,188.1,C1282,Online
+10484,2024-08-26,North,Furniture,Chair,2,153.35,0.0,306.69,C1187,Online
+10485,2024-08-27,North,Office,Notebook,1,8.26,0.0,8.26,C1291,Retail
+10486,2024-08-28,North,Electronics,Phone,4,580.42,0.0,2321.7,C1129,Online
+10487,2024-08-28,South,Software,Cloud Plan,1,91.59,0.05,87.01,C1040,Retail
+10488,2024-08-29,North,Electronics,Laptop,3,914.56,0.0,2743.68,C1263,Online
+10489,2024-08-29,North,Electronics,Laptop,2,903.55,0.05,1716.74,C1194,Online
+10490,2024-08-30,West,Electronics,Phone,2,593.66,0.1,1068.6,C1095,Partner
+10491,2024-08-30,South,Office,Notebook,2,7.8,0.15,13.25,C1006,Online
+10492,2024-08-31,South,Furniture,Desk,1,282.55,0.05,268.42,C1178,Retail
+10493,2024-08-31,North,Furniture,Chair,5,150.17,0.15,638.2,C1067,Online
+10494,2024-08-31,South,Office,Printer,2,185.29,0.05,352.05,C1131,Retail
+10495,2024-09-01,North,Office,Notebook,3,7.96,0.0,23.89,C1214,Online
+10496,2024-09-01,East,Office,Notebook,6,7.68,0.15,39.16,C1002,Retail
+10497,2024-09-01,North,Furniture,Desk,6,287.85,0.0,1727.08,C1197,Online
+10498,2024-09-02,West,Software,Antivirus,2,41.05,0.0,82.11,C1196,Online
+10499,2024-09-04,West,Furniture,Desk,4,304.15,0.15,1034.1,C1282,Online
+10500,2024-09-04,North,Office,Printer,1,188.25,0.05,178.84,C1061,Online
+10501,2024-09-04,North,Furniture,Chair,1,155.56,0.0,155.56,C1290,Online
+10502,2024-09-04,North,Electronics,Headphones,1,116.97,0.0,116.97,C1003,Online
+10503,2024-09-05,East,Electronics,Phone,1,647.27,0.05,614.91,C1134,Online
+10504,2024-09-06,North,Electronics,Headphones,4,120.11,0.05,456.41,C1021,Online
+10505,2024-09-07,West,Office,Printer,2,186.38,0.15,316.85,C1023,Online
+10506,2024-09-07,East,Furniture,Desk,2,282.94,0.15,481.0,C1032,Partner
+10507,2024-09-07,West,Furniture,Desk,5,309.14,0.0,1545.68,C1181,Online
+10508,2024-09-08,South,Office,Notebook,5,8.33,0.05,39.57,C1222,Online
+10509,2024-09-10,West,Software,Antivirus,2,42.33,0.0,84.66,C1241,Partner
+10510,2024-09-10,North,Electronics,Headphones,1,115.53,0.0,115.53,C1165,Online
+10511,2024-09-10,South,Electronics,Laptop,2,851.02,0.05,1616.94,C1032,Online
+10512,2024-09-10,South,Office,Notebook,1,8.01,0.0,8.01,C1090,Partner
+10513,2024-09-11,West,Electronics,Phone,1,577.63,0.0,577.63,C1128,Online
+10514,2024-09-11,East,Software,Cloud Plan,2,96.26,0.1,173.27,C1187,Retail
+10515,2024-09-13,West,Office,Printer,2,173.17,0.1,311.71,C1007,Retail
+10516,2024-09-13,North,Electronics,Headphones,1,122.46,0.0,122.46,C1089,Partner
+10517,2024-09-16,West,Electronics,Laptop,4,923.13,0.1,3323.29,C1287,Retail
+10518,2024-09-18,South,Furniture,Desk,1,318.41,0.0,318.41,C1215,Retail
+10519,2024-09-20,South,Furniture,Chair,3,142.61,0.1,385.06,C1204,Online
+10520,2024-09-20,West,Furniture,Chair,4,138.87,0.15,472.14,C1095,Partner
+10521,2024-09-21,South,Software,Antivirus,1,40.37,0.0,40.37,C1267,Retail
+10522,2024-09-22,South,Furniture,Desk,1,292.46,0.0,292.46,C1274,Retail
+10523,2024-09-23,East,Software,Antivirus,1,37.58,0.05,35.7,C1159,Retail
+10524,2024-09-23,North,Electronics,Laptop,5,951.31,0.0,4756.57,C1108,Online
+10525,2024-09-23,South,Furniture,Desk,1,296.08,0.0,296.08,C1010,missing
+10526,2024-09-24,North,Office,Notebook,2,8.39,0.05,15.94,C1183,missing
+10527,2024-09-24,North,Office,Printer,2,188.42,0.1,339.16,C1002,Online
+10528,2024-09-24,West,Electronics,Phone,1,602.48,0.1,542.23,C1131,Retail
+10529,2024-09-24,East,Software,Antivirus,2,39.61,0.15,67.33,C1073,Online
+10530,2024-09-25,South,Office,Printer,4,185.12,0.15,629.42,C1011,Retail
+10531,2024-09-25,South,Furniture,Desk,2,322.9,0.0,645.8,C1106,Retail
+10532,2024-09-25,South,Furniture,Desk,1,305.61,0.0,305.61,C1025,Online
+10533,2024-09-26,East,Office,Printer,3,187.44,0.0,562.31,C1189,Retail
+10534,2024-09-27,West,Office,Printer,1,181.6,0.0,181.6,C1088,Online
+10535,2024-09-27,West,Software,Antivirus,3,41.75,0.1,112.71,C1085,Online
+10536,2024-09-28,South,Electronics,Headphones,1,114.09,0.05,108.39,C1007,Retail
+10537,2024-09-28,South,Software,Cloud Plan,1,94.85,0.1,85.36,C1172,Retail
+10538,2024-09-28, South ,Electronics,Phone,4,611.52,,2079.16,C1274,Online
+10539,2024-09-29,East,Office,Notebook,5,8.62,0.1,38.78,C1066,Online
+10540,2024-09-29,South,Electronics,Phone,2,647.58,0.15,1100.88,C1007,Online
+10541,2024-09-30,East,Electronics,Phone,1,572.64,0.15,486.75,C1271,Online
+10542,2024-09-30,East,Electronics,Phone,1,586.03,0.05,556.73,C1143,Retail
+10543,2024-09-30,South,Office,Printer,1,181.94,0.05,172.84,C1150,Online
+10544,2024-10-02,South,Electronics,Headphones,1,112.49,0.1,101.24,C1144,Retail
+10545,2024-10-02,South,Software,Antivirus,2,42.93,0.0,85.85,C1186,Online
+10546,2024-10-04,North,Electronics,Headphones,1,113.36,0.0,113.36,C1259,Partner
+10547,2024-10-04,North,Furniture,Chair,6,150.65,0.05,858.71,C1224,Retail
+10548,2024-10-05,East,Office,Notebook,3,8.32,0.1,22.46,C1181,missing
+10549,2024-10-06,South,Furniture,Chair,1,150.21,0.05,142.7,C1273,Online
+10550,2024-10-07,North,Software,Cloud Plan,5,98.39,0.0,491.95,C1262,Retail
+10551,2024-10-07,East,Furniture,Desk,6,302.33,0.1,1632.58,C1290,Online
+10552,2024-10-07,East,Office,Notebook,3,7.97,0.1,21.52,C1100,Retail
+10553,2024-10-08,North,Furniture,Desk,2,280.6,0.15,477.03,C1170,Retail
+10554,2024-10-08,West,Furniture,Chair,1,160.83,0.0,160.83,C1211,Online
+10555,2024-10-09,West,Office,Printer,4,185.91,0.0,743.63,C1179,Online
+10556,2024-10-10,East,Electronics,Phone,5,564.28,0.0,2821.41,C1266,Retail
+10557,2024-10-10,East,Office,Printer,4,191.57,0.0,766.26,C1000,Online
+10558,2024-10-12,North,Electronics,Headphones,3,110.51,0.15,281.79,C1157,Retail
+10559,2024-10-13,West,Software,Antivirus,1,43.07,0.0,43.07,C1156,Retail
+10560,2024-10-13,South,Electronics,Phone,1,638.37,0.1,574.53,C1180,Online
+10561,2024-10-13,West,Electronics,Laptop,1,851.92,0.0,851.92,C1266,Partner
+10562,2024-10-14,East,Office,Notebook,3,7.47,0.0,22.41,C1124,Online
+10563,2024-10-14,North,Software,Cloud Plan,1,90.76,0.0,90.76,C1114,Partner
+10564,2024-10-15,North,Electronics,Headphones,1,118.21,0.05,112.3,C1020,Online
+10565,2024-10-17,East,Furniture,Desk,4,314.89,0.1,1133.6,C1091,Online
+10566,2024-10-17,East,Office,Notebook,5,7.65,0.05,36.34,C1281,Retail
+10567,2024-10-18,North,Office,Printer,1,173.42,0.1,156.08,C1172,Retail
+10568,2024-10-19,East,Office,Printer,1,173.19,0.1,155.87,C1234,Online
+10569,2024-10-20,West,Electronics,Laptop,1,910.35,0.0,910.35,C1013,Retail
+10570,2024-10-21,South,Office,Notebook,6,7.55,0.0,45.29,C1265,Retail
+10571,2024-10-22,South,Furniture,Desk,4,276.33,0.15,939.51,C1255,Online
+10572,2024-10-22,North,Furniture,Desk,2,282.26,0.1,508.07,C1146,Retail
+10573,2024-10-24,East,Electronics,Laptop,2,888.77,0.05,1688.66,C1217,Online
+10574,2024-10-24,South,Office,Notebook,7,8.13,0.1,51.21,C1037,Retail
+10575,2024-10-24,West,Furniture,Desk,3,303.39,0.05,864.67,C1160,Online
+10576,2024-10-25,South,Furniture,Desk,1,311.3,0.05,295.74,C1108,Partner
+10577,2024-10-25,East,Software,Antivirus,2,38.88,0.0,77.76,C1020,Online
+10578,2024-10-25,North,Electronics,Phone,3,567.64,0.0,1702.93,C1116,Partner
+10579,2024-10-26,North,Electronics,Headphones,3,127.37,0.05,363.01,C1294,Retail
+10580,2024-10-26,East,Furniture,Chair,2,138.97,0.05,264.05,C1282,Retail
+10581,2024-10-26,South,Software,Cloud Plan,2,88.44,0.0,176.88,C1064,Online
+10582,2024-10-27,South,Furniture,Chair,1,153.82,0.0,153.82,C1071,Online
+10583,2024-10-27,West,Software,Antivirus,1,38.74,0.1,34.87,C1112,Retail
+10584,2024-10-27,West,Office,Printer,3,183.63,0.0,550.88,C1200,Online
+10585,2024-10-28,West,Software,Cloud Plan,3,100.76,0.0,302.29,C1256,Retail
+10586,2024-10-28,North,Furniture,Chair,1,148.76,0.0,148.76,C1226,Retail
+10587,2024-10-30,East,Furniture,Chair,1,138.54,0.15,117.76,C1096,Retail
+10588,2024-10-30,West,Software,Cloud Plan,1,100.47,0.0,100.47,C1269,Retail
+10589,2024-10-30,South,Office,Notebook,3,7.86,0.1,21.23,C1047,Online
+10590,2024-10-30,North,Software,Antivirus,1,41.9,0.15,35.62,C1056,Online
+10591,2024-10-30,West,Software,Antivirus,2,37.72,0.1,67.9,C1272,Retail
+10592,2024-10-31,South,Furniture,Chair,2,159.1,0.1,286.37,C1243,Online
+10593,2024-10-31,East,Furniture,Chair,2,147.28,0.05,279.84,C1051,Partner
+10594,2024-10-31,West,Software,Antivirus,1,38.89,0.05,36.95,C1218,Online
+10595,2024-10-31,East,Software,Antivirus,2,41.48,0.1,74.66,C1127,Online
+10596,2024-10-31,South,Software,Antivirus,3,41.01,0.0,123.03,C1200,Online
+10597,2024-11-01,South,Electronics,Headphones,1,127.26,0.1,114.53,C1161,Online
+10598,2024-11-01,South,Furniture,Chair,1,141.12,0.0,141.12,C1187,Partner
+10599,2024-11-01,North,Office,Notebook,1,7.99,0.0,7.99,C1082,Retail
+10600,2024-11-01,East,Furniture,Chair,1,159.53,0.1,143.58,C1286,Retail
+10601,2024-11-01,West,Software,Antivirus,4,42.72,0.0,170.89,C1023,Partner
+10602,2024-11-02,North,Furniture,Desk,1,293.1,0.0,293.1,C1157,Retail
+10603,2024-11-02,South,Furniture,Desk,1,282.17,0.05,268.06,C1067,Online
+10604,2024-11-03,West,Electronics,Laptop,5,934.32,0.0,4671.59,C1106,Online
+10605,2024-11-03,North,Furniture,Desk,1,302.02,0.0,302.02,C1287,Retail
+10606,2024-11-05,South,Office,Printer,1,187.63,0.0,187.63,C1187,Retail
+10607,2024-11-06,South,Electronics,Phone,1,636.25,0.0,636.25,C1031,Online
+10608,2024-11-06,East,Electronics,Headphones,1,124.78,0.05,118.54,C1092,Partner
+10609,2024-11-07,North,Software,Cloud Plan,1,97.25,0.05,92.39,C1130,Online
+10610,2024-11-08,East,Furniture,Desk,3,319.98,0.0,959.95,C1221,Retail
+10611,2024-11-08,South,Furniture,Chair,1,149.34,0.0,149.34,C1125,Retail
+10612,2024-11-09,East,Software,Antivirus,2,41.48,0.05,78.81,C1051,Online
+10613,2024-11-10,North,Software,Cloud Plan,1,101.88,0.1,91.69,C1063,Online
+10614,2024-11-11,South,Office,Notebook,4,7.59,0.05,28.83,C1012,Online
+10615,2024-11-11,South,Furniture,Desk,5,319.6,0.0,1598.0,C1079,Online
+10616,2024-11-11,North,Electronics,Laptop,5,964.38,0.0,4821.89,C1216,Retail
+10617,2024-11-11,North,Electronics,Phone,3,600.15,0.1,1620.4,C1220,Partner
+10618,2024-11-11,North,Software,Cloud Plan,2,96.27,0.1,173.29,C1201,Retail
+10619,2024-11-12,South,Furniture,Chair,2,158.89,0.15,270.11,C1017,Online
+10620,2024-11-12,North,Furniture,Chair,4,142.54,,570.18,C1209,Online
+10621,2024-11-12, West ,Furniture,Desk,4,278.19,0.0,1112.74,C1080,Partner
+10622,2024-11-13,South,Furniture,Desk,3,322.85,0.1,871.71,C1085,Online
+10623,2024-11-13,West,Software,Antivirus,2,41.1,0.15,69.86,C1275,Online
+10624,2024-11-13,West,Electronics,Phone,2,637.76,0.15,1084.2,C1015,Online
+10625,2024-11-13,North,Software,Antivirus,5,37.03,0.0,185.17,C1107,Online
+10626,2024-11-13,East,Software,Cloud Plan,1,87.83,0.15,74.65,C1244,Online
+10627,2024-11-14,West,Software,Antivirus,3,37.83,0.1,102.13,C1299,Retail
+10628,2024-11-14,East,Furniture,Desk,6,319.47,0.0,1916.85,C1120,Partner
+10629,2024-11-15,South,Software,Cloud Plan,4,95.19,0.0,380.77,C1096,Partner
+10630,2024-11-15,South,Office,Notebook,3,8.21,0.1,22.18,C1152,Retail
+10631,2024-11-15,North,Software,Cloud Plan,2,92.26,0.15,156.85,C1125,Online
+10632,2024-11-16,South,Software,Cloud Plan,5,88.14,0.15,374.61,C1212,Online
+10633,2024-11-16,West,Software,Antivirus,1,40.46,0.1,36.42,C1274,Online
+10634,2024-11-16,West,Office,Printer,1,172.91,0.1,155.62,C1293,Retail
+10635,2024-11-16,North,Software,Antivirus,1,38.22,0.05,36.31,C1064,Retail
+10636,2024-11-17,East,Office,Printer,5,169.7,0.1,763.65,C1181,Retail
+10637,2024-11-17,South,Furniture,Desk,4,306.36,0.0,1225.44,C1140,Online
+10638,2024-11-18,West,Electronics,Phone,5,639.5,0.15,2717.89,C1208,Online
+10639,2024-11-19,North,Office,Printer,1,176.37,0.0,176.37,C1127,Online
+10640,2024-11-19,West,Electronics,Phone,2,608.08,0.0,1216.15,C1071,Online
+10641,2024-11-20,West,Furniture,Chair,3,151.26,0.1,408.4,C1138,Online
+10642,2024-11-20,North,Office,Notebook,2,8.36,0.05,15.88,C1228,Online
+10643,2024-11-20,North,Software,Antivirus,3,41.72,0.05,118.91,C1119,Partner
+10644,2024-11-21,West,Furniture,Chair,3,144.38,0.0,433.15,C1044,Online
+10645,2024-11-21,North,Software,Antivirus,2,39.34,0.0,78.68,C1132,Online
+10646,2024-11-22,South,Furniture,Chair,4,159.86,0.15,543.53,C1170,Partner
+10647,2024-11-22,West,Electronics,Headphones,3,127.73,0.05,364.04,C1008,Online
+10648,2024-11-22,East,Office,Printer,2,192.73,0.0,385.46,C1087,Retail
+10649,2024-11-22,South,Furniture,Desk,1,322.93,0.0,322.93,C1027,Online
+10650,2024-11-22,South,Software,Antivirus,2,39.54,0.1,71.17,C1157,Retail
+10651,2024-11-23,North,Electronics,Headphones,4,120.09,0.1,432.34,C1162,Online
+10652,2024-11-23,West,Office,Notebook,3,7.59,0.05,21.62,C1266,Online
+10653,2024-11-24,South,Electronics,Headphones,3,114.15,,308.2,C1205,Retail
+10654,2024-11-24,North,Electronics,Laptop,3,832.41,0.15,2122.64,C1242,Online
+10655,2024-11-24,North,Office,Printer,5,184.59,0.05,876.8,C1296,Online
+10656,2024-11-24,West,Office,Notebook,3,8.39,0.0,25.17,C1123,Retail
+10657,2024-11-24,North,Electronics,Headphones,4,115.41,0.1,415.46,C1020,Retail
+10658,2024-11-24,West,Electronics,Laptop,2,901.03,0.0,1802.07,C1076,Retail
+10659,2024-11-24,East,Office,Printer,2,179.52,0.0,359.05,C1072,Retail
+10660,2024-11-25,West,Office,Printer,2,166.72,0.1,300.1,C1224,Online
+10661,2024-11-25,West,Electronics,Phone,1,608.52,0.15,517.24,C1012,Online
+10662,2024-11-27,West,Electronics,Phone,5,563.88,0.05,2678.41,C1030,Retail
+10663,2024-11-27,West,Electronics,Laptop,2,879.8,0.05,1671.62,C1197,Online
+10664,2024-11-27,North,Software,Antivirus,3,37.76,0.0,113.27,C1229,Online
+10665,2024-11-28,East,Furniture,Chair,6,152.97,0.0,917.8,C1108,Partner
+10666,2024-11-28,South,Electronics,Headphones,3,127.17,0.05,362.43,C1244,Online
+10667,2024-11-29,South,Office,Printer,4,176.96,0.1,637.04,C1132,Online
+10668,2024-11-29,West,Office,Printer,1,181.65,0.0,181.65,C1077,Online
+10669,2024-11-29,West,Electronics,Phone,2,573.97,0.1,1033.14,C1108,Retail
+10670,2024-11-30,East,Furniture,Chair,5,144.02,0.05,684.1,C1085,Online
+10671,2024-12-01,South,Software,Cloud Plan,2,97.7,,195.41,C1282,Online
+10672,2024-12-01,South,Electronics,Laptop,4,930.26,0.1,3348.94,C1118,Retail
+10673,2024-12-01,South,Electronics,Laptop,1,903.59,0.0,903.59,C1233,Partner
+10674,2024-12-01,South,Software,Cloud Plan,6,101.13,0.15,515.75,C1244,Partner
+10675,2024-12-02,South,Office,Printer,2,190.29,0.0,380.58,C1259,Online
+10676,2024-12-02,North,Electronics,Phone,4,598.0,0.0,2391.99,C1120,Retail
+10677,2024-12-02,North,Office,Notebook,7,8.06,0.05,53.59,C1072,Retail
+10678,2024-12-03,East,Office,Notebook,2,8.16,,16.32,C1030,Online
+10679,2024-12-03,South,Furniture,Desk,6,294.58,0.05,1679.09,C1000,Partner
+10680,2024-12-04, West ,Furniture,Desk,3,280.01,0.05,798.02,C1265,Partner
+10681,2024-12-04,East,Electronics,Phone,8,620.66,0.0,4965.3,C1173,Online
+10682,2024-12-04,North,Office,Printer,4,184.21,0.15,626.33,C1010,Online
+10683,2024-12-04,North,Electronics,Laptop,3,969.18,0.1,2616.79,C1295,Online
+10684,2024-12-05,North,Electronics,Headphones,3,129.19,0.0,387.56,C1194,Online
+10685,2024-12-06,West,Software,Cloud Plan,2,101.68,0.0,203.36,C1101,Online
+10686,2024-12-07,North,Electronics,Headphones,2,111.26,0.15,189.14,C1104,Partner
+10687,2024-12-07,South,Electronics,Phone,3,569.25,0.1,1536.97,C1077,Retail
+10688,2024-12-07,West,Office,Notebook,3,7.74,0.1,20.89,C1221,Retail
+10689,2024-12-07,West,Electronics,Headphones,4,118.03,0.15,401.29,C1283,Online
+10690,2024-12-07,North,Furniture,Chair,5,152.61,0.1,686.75,C1019,Retail
+10691,2024-12-09, North ,Electronics,Phone,2,625.9,0.0,1251.8,C1085,Online
+10692,2024-12-09,North,Office,Printer,2,172.96,0.05,328.63,C1179,Online
+10693,2024-12-09,North,Office,Printer,4,191.11,0.0,764.43,C1103,Online
+10694,2024-12-09,North,Office,Notebook,4,7.64,0.0,30.58,C1048,Partner
+10695,2024-12-10,East,Office,Notebook,1,8.12,0.15,6.9,C1268,Retail
+10696,2024-12-10,West,Office,Printer,3,176.89,0.05,504.13,C1160,Partner
+10697,2024-12-12,South,Furniture,Desk,4,295.84,0.1,1065.01,C1277,Partner
+10698,2024-12-12,East,Furniture,Chair,2,143.11,0.1,257.59,C1045,Online
+10699,2024-12-12,North,Office,Printer,2,174.25,0.15,296.22,C1191,Partner
+10700,2024-12-13,West,Furniture,Desk,2,308.05,0.15,523.69,C1218,Retail
+10701,2024-12-13,East,Furniture,Chair,4,157.49,0.05,598.45,C1041,Retail
+10702,2024-12-13,West,Electronics,Laptop,1,922.4,0.15,784.04,C1183,Retail
+10703,2024-12-14,West,Software,Cloud Plan,4,89.08,0.0,356.3,C1287,Partner
+10704,2024-12-14,South,Furniture,Desk,1,284.05,0.15,241.44,C1149,Online
+10705,2024-12-15,North,Furniture,Desk,5,282.64,0.1,1271.89,C1227,Retail
+10706,2024-12-15,North,Furniture,Desk,6,315.72,0.0,1894.32,C1258,Online
+10707,2024-12-15,South,Software,Antivirus,2,41.45,0.15,70.46,C1224,Partner
+10708,2024-12-16,West,Electronics,Phone,2,608.95,0.05,1157.0,C1190,Online
+10709,2024-12-16,South,Software,Antivirus,4,39.04,0.05,148.34,C1206,Online
+10710,2024-12-17,East,Office,Notebook,3,7.36,0.0,22.09,C1172,missing
+10711,2024-12-18,South,Electronics,Phone,5,618.41,0.0,3092.04,C1092,Online
+10712,2024-12-18,North,Furniture,Desk,2,317.78,0.15,540.22,C1008,Online
+10713,2024-12-21,South,Software,Cloud Plan,4,100.58,0.0,402.31,C1057,Retail
+10714,2024-12-22,East,Electronics,Headphones,3,114.48,0.05,326.28,C1122,Online
+10715,2024-12-22,East,Office,Printer,4,184.95,0.0,739.8,C1006,Online
+10716,2024-12-23,South,Software,Antivirus,4,41.97,0.15,142.69,C1124,Online
+10717,2024-12-23,North,Electronics,Headphones,4,127.7,0.0,510.8,C1227,Online
+10718,2024-12-23,East,Electronics,Laptop,3,907.02,0.05,2585.01,C1066,Retail
+10719,2024-12-23,North,Furniture,Chair,2,148.15,0.15,251.86,C1093,Online
+10720,2024-12-24,West,Furniture,Desk,4,303.97,0.15,1033.5,C1021,Online
+10721,2024-12-24,North,Furniture,Chair,5,151.14,0.05,717.9,C1250,Partner
+10722,2024-12-24,North,Software,Antivirus,5,41.36,0.0,206.8,C1089,Retail
+10723,2024-12-25,South,Software,Antivirus,1,42.28,0.0,42.28,C1084,Retail
+10724,2024-12-26,South,Office,Printer,5,175.47,0.15,745.74,C1062,Partner
+10725,2024-12-26,South,Office,Notebook,4,8.34,0.1,30.01,C1229,Online
+10726,2024-12-26,South,Electronics,Phone,1,634.92,0.05,603.17,C1038,Retail
+10727,2024-12-27,West,Electronics,Phone,2,628.06,0.0,1256.11,C1292,Online
+10728,2024-12-27,South,Electronics,Laptop,8,956.54,0.15,6504.46,C1006,Online
+10729,2024-12-27,South,Furniture,Desk,3,293.32,0.0,879.96,C1084,Online
+10730,2024-12-28,South,Office,Notebook,1,7.72,0.05,7.33,C1249,Retail
+10731,2024-12-28,North,Office,Notebook,3,8.35,0.0,25.05,C1212,Online
+10732,2024-12-29,East,Software,Cloud Plan,3,100.89,0.05,287.54,C1014,Online
+10733,2024-12-29,North,Electronics,Phone,3,626.65,,1879.96,C1170,Online
+10734,2024-12-29,East,Software,Cloud Plan,7,91.78,0.15,546.08,C1299,Online
+10735,2024-12-30,North,Office,Printer,3,176.13,0.0,528.4,C1246,Retail
+10736,2024-12-30,West,Office,Printer,1,184.09,0.0,184.09,C1273,Partner
+10737,2024-12-30,South,Office,Notebook,2,7.66,0.0,15.31,C1077,Online
+10738,2024-12-31,West,Electronics,Laptop,6,968.28,0.0,5809.69,C1100,Retail
+10739,2025-01-01,South,Office,Printer,4,186.05,0.15,632.58,C1262,Online
+10740,2025-01-01,North,Electronics,Headphones,4,115.14,0.15,391.49,C1059,Retail
+10741,2025-01-01,West,Software,Cloud Plan,3,99.6,0.1,268.91,C1078,Retail
+10742,2025-01-02,East,Electronics,Phone,1,586.71,0.05,557.38,C1159,Online
+10743,2025-01-02,East,Electronics,Headphones,3,118.81,0.0,356.42,C1261,Online
+10744,2025-01-02,South,Electronics,Laptop,4,923.06,,3323.02,C1060,Partner
+10745,2025-01-03,East,Office,Notebook,2,7.9,0.15,13.42,C1048,Online
+10746,2025-01-03,West,Office,Printer,2,167.61,0.1,301.7,C1115,Online
+10747,2025-01-03,East,Office,Printer,3,192.56,0.15,491.03,C1014,Online
+10748,2025-01-04,South,Software,Antivirus,2,42.33,0.05,80.43,C1277,Online
+10749,2025-01-04,East,Furniture,Chair,2,144.25,0.0,288.5,C1085,Partner
+10750,2025-01-04,East,Electronics,Laptop,3,874.28,0.0,2622.85,C1003,Online
+10751,2025-01-04,West,Software,Cloud Plan,1,102.29,0.0,102.29,C1062,Online
+10752,2025-01-05,South,Furniture,Desk,4,296.43,0.05,1126.44,C1147,Online
+10753,2025-01-05,South,Office,Printer,2,182.79,0.1,329.03,C1295,Online
+10754,2025-01-06,West,Electronics,Phone,3,626.63,0.1,1691.91,C1114,Retail
+10755,2025-01-06,South,Software,Cloud Plan,2,91.14,0.0,182.29,C1009,Retail
+10756,2025-01-06,East,Furniture,Chair,1,138.27,0.0,138.27,C1031,Online
+10757,2025-01-06,South,Electronics,Headphones,1,117.28,0.05,111.42,C1082,Online
+10758,2025-01-06,North,Electronics,Headphones,2,119.58,0.0,239.15,C1181,Online
+10759,2025-01-07,East,Office,Notebook,2,7.53,0.1,13.55,C1008,Online
+10760,2025-01-09,North,Electronics,Laptop,8,833.71,0.05,6336.17,C1032,missing
+10761,2025-01-09,North,Electronics,Laptop,3,904.46,0.1,2442.06,C1161,Online
+10762,2025-01-10,East,Office,Printer,3,165.84,0.1,447.78,C1219,Retail
+10763,2025-01-10,East,Software,Antivirus,6,41.78,0.15,213.1,C1071,Online
+10764,2025-01-11,West,Electronics,Laptop,2,855.8,0.0,1711.59,C1045,Online
+10765,2025-01-11,North,Furniture,Chair,2,157.15,0.15,267.16,C1030,Partner
+10766,2025-01-11,North,Office,Notebook,5,8.22,0.1,37.01,C1089,Online
+10767,2025-01-11,West,Software,Cloud Plan,5,91.23,0.15,387.74,C1245,Partner
+10768,2025-01-12,North,Software,Antivirus,5,41.56,0.0,207.82,C1089,Online
+10769,2025-01-12,North,Electronics,Phone,3,564.27,0.0,1692.81,C1236,Partner
+10770,2025-01-12,North,Software,Cloud Plan,10,102.48,0.15,871.09,C1026,Retail
+10771,2025-01-13,South,Office,Notebook,6,8.49,0.1,45.82,C1166,Online
+10772,2025-01-14,West,Office,Printer,5,167.95,0.0,839.75,C1118,Online
+10773,2025-01-14,East,Office,Notebook,7,8.36,0.0,58.5,C1040,Retail
+10774,2025-01-15,East,Furniture,Chair,3,159.17,0.0,477.51,C1237,Partner
+10775,2025-01-15,North,Office,Notebook,1,7.45,0.15,6.33,C1121,Online
+10776,2025-01-15,South,Office,Printer,1,190.79,0.05,181.25,C1011,Online
+10777,2025-01-15,South,Electronics,Headphones,3,127.29,0.0,381.87,C1281,Retail
+10778,2025-01-16,North,Electronics,Laptop,1,850.03,0.05,807.53,C1079,Retail
+10779,2025-01-17,North,Electronics,Phone,5,627.22,0.05,2979.32,C1071,Online
+10780,2025-01-17,South,Electronics,Headphones,6,114.02,0.0,684.14,C1023,Online
+10781,2025-01-17,North,Electronics,Headphones,5,117.48,0.1,528.64,C1160,Online
+10782,2025-01-18,East,Software,Cloud Plan,1,93.64,,84.27,C1022,Online
+10783,2025-01-18,East,Furniture,Desk,5,311.94,0.0,1559.7,C1042,Partner
+10784,2025-01-19,North,Software,Antivirus,1,38.19,0.15,32.47,C1177,Partner
+10785,2025-01-19,South,Electronics,Phone,2,563.25,,1070.17,C1208,Online
+10786,2025-01-19,East,Office,Notebook,2,7.56,0.05,14.37,C1052,Online
+10787,2025-01-22,East,Furniture,Chair,1,154.16,0.1,138.74,C1185,Online
+10788,2025-01-22,West,Furniture,Desk,2,302.75,0.1,544.96,C1125,Partner
+10789,2025-01-22,South,Furniture,Desk,2,317.57,0.0,635.13,C1089,Online
+10790,2025-01-22,West,Electronics,Laptop,7,931.23,0.15,5540.81,C1150,Partner
+10791,2025-01-23,North,Electronics,Laptop,2,883.67,0.1,1590.6,C1109,Online
+10792,2025-01-23,South,Software,Antivirus,6,39.77,0.15,202.83,C1198,Retail
+10793,2025-01-23,North,Electronics,Laptop,1,906.88,0.1,816.2,C1134,Retail
+10794,2025-01-24,South,Software,Antivirus,6,43.03,0.0,258.21,C1078,Partner
+10795,2025-01-24,South,Furniture,Chair,4,155.35,0.1,559.25,C1023,Online
+10796,2025-01-24,North,Software,Antivirus,5,42.48,0.0,212.4,C1088,Online
+10797,2025-01-25,East,Electronics,Laptop,2,880.54,0.05,1673.02,C1079,Online
+10798,2025-01-25,South,Software,Cloud Plan,9,88.76,0.0,798.8,C1131,Partner
+10799,2025-01-26,North,Software,Cloud Plan,4,94.67,0.0,378.67,C1178,Retail
+10800,2025-01-26,North,Electronics,Phone,4,582.88,0.0,2331.53,C1105,Retail
+10801,2025-01-27,South,Electronics,Headphones,2,116.84,0.15,198.63,C1062,Online
+10802,2025-01-27,South,Electronics,Phone,5,630.72,0.0,3153.59,C1285,Online
+10803,2025-01-29,South,Office,Notebook,5,7.95,0.0,39.75,C1144,Retail
+10804,2025-01-29,North,Office,Printer,6,171.4,0.1,925.58,C1237,Online
+10805,2025-01-29,East,Software,Antivirus,9,37.79,0.05,323.14,C1287,Online
+10806,2025-01-30,West,Office,Notebook,2,8.19,0.0,16.38,C1036,Online
+10807,2025-01-30,South,Office,Printer,2,179.88,0.1,323.79,C1130,Partner
+10808,2025-01-30,East,Electronics,Laptop,4,835.18,0.1,3006.64,C1065,Online
+10809,2025-01-31,West,Furniture,Desk,5,301.06,0.0,1505.31,C1069,Online
+10810,2025-01-31,West,Electronics,Headphones,5,123.43,0.15,524.58,C1271,Online
+10811,2025-01-31,East,Electronics,Laptop,1,925.5,0.0,925.5,C1048,Partner
+10812,2025-02-02,West,Software,Antivirus,1,39.97,0.05,37.97,C1136,Online
+10813,2025-02-02,West,Furniture,Desk,9,323.22,0.15,2472.66,C1156,Online
+10814,2025-02-02,East,Furniture,Desk,2,303.14,0.0,606.28,C1140,Partner
+10815,2025-02-02,South,Furniture,Desk,1,292.91,0.1,263.62,C1252,Retail
+10816,2025-02-03,North,Furniture,Desk,2,311.77,0.0,623.53,C1129,Online
+10817,2025-02-03,North,Office,Notebook,5,8.62,0.0,43.08,C1100,Retail
+10818,2025-02-03,South,Electronics,Headphones,4,129.55,0.15,440.46,C1192,Retail
+10819,2025-02-03,South,Software,Cloud Plan,6,89.16,0.15,454.73,C1148,Online
+10820,2025-02-04,South,Electronics,Headphones,5,121.8,0.0,609.01,C1003,Retail
+10821,2025-02-05,East,Office,Notebook,4,8.42,0.1,30.3,C1128,Partner
+10822,2025-02-05,East,Electronics,Headphones,4,126.72,0.1,456.2,C1146,Partner
+10823,2025-02-06,West,Electronics,Headphones,4,124.93,0.1,449.75,C1256,Online
+10824,2025-02-08,North,Electronics,Headphones,4,128.64,0.15,437.36,C1056,Partner
+10825,2025-02-08,North,Office,Notebook,1,7.88,0.0,7.88,C1259,Retail
+10826,2025-02-08,East,Electronics,Laptop,4,884.49,0.0,3537.97,C1087,missing
+10827,2025-02-08,West,Electronics,Headphones,1,121.34,0.1,109.21,C1139,Retail
+10828,2025-02-09,West,Software,Cloud Plan,2,97.17,0.0,194.33,C1273,Online
+10829,2025-02-09,West,Software,Cloud Plan,2,100.88,0.0,201.76,C1222,Online
+10830,2025-02-09,West,Electronics,Laptop,2,895.65,0.1,1612.17,C1154,Retail
+10831,2025-02-09,South,Office,Notebook,7,7.42,0.0,51.94,C1173,Online
+10832,2025-02-09,South,Electronics,Headphones,4,126.45,0.0,505.81,C1091,Retail
+10833,2025-02-09,North,Electronics,Headphones,5,125.31,0.1,563.91,C1294,Retail
+10834,2025-02-10,East,Office,Printer,5,173.64,0.0,868.22,C1118,Retail
+10835,2025-02-10,West,Office,Printer,5,187.8,0.15,798.15,C1065,Partner
+10836,2025-02-10,South,Electronics,Laptop,5,852.78,0.0,4263.88,C1224,Partner
+10837,2025-02-10,East,Software,Cloud Plan,1,91.04,0.0,91.04,C1188,Retail
+10838,2025-02-11,North,Office,Notebook,9,8.31,0.0,74.78,C1195,Retail
+10839,2025-02-12,North,Office,Notebook,4,7.99,0.1,28.75,C1106,Online
+10840,2025-02-12,North,Software,Antivirus,5,40.39,0.15,171.66,C1143,Retail
+10841,2025-02-13,North,Electronics,Laptop,2,915.02,0.0,1830.04,C1206,Retail
+10842,2025-02-14,West,Furniture,Chair,5,152.06,0.0,760.3,C1081,Online
+10843,2025-02-14, South ,Office,Printer,4,192.91,0.0,771.65,C1162,Online
+10844,2025-02-16,West,Electronics,Phone,5,642.45,0.0,3212.25,C1177,Online
+10845,2025-02-16,East,Office,Notebook,1,8.61,,8.61,C1082,Online
+10846,2025-02-17,North,Software,Antivirus,5,38.09,,190.44,C1047,Online
+10847,2025-02-17,North,Furniture,Desk,7,322.8,0.15,1920.66,C1299,Retail
+10848,2025-02-17,West,Office,Printer,10,184.12,0.0,1841.21,C1044,Online
+10849,2025-02-17,North,Electronics,Laptop,5,968.68,0.15,4116.89,C1173,Retail
+10850,2025-02-18,West,Office,Printer,1,186.42,0.0,186.42,C1071,Online
+10851,2025-02-18,North,Software,Antivirus,5,37.93,0.15,161.18,C1274,Retail
+10852,2025-02-19,East,Electronics,Headphones,2,112.05,0.05,212.89,C1159,Online
+10853,2025-02-21,West,Furniture,Chair,7,153.34,0.0,1073.36,C1212,Online
+10854,2025-02-21,North,Software,Cloud Plan,5,94.12,,400.02,C1130,Online
+10855,2025-02-22,North,Software,Cloud Plan,2,89.15,0.0,178.3,C1006,Online
+10856,2025-02-22,West,Office,Notebook,2,8.22,0.05,15.62,C1136,Retail
+10857,2025-02-22,North,Office,Printer,2,172.68,0.1,310.82,C1036,Retail
+10858,2025-02-22,South,Furniture,Desk,4,278.51,0.1,1002.62,C1182,Retail
+10859,2025-02-24,South,Electronics,Laptop,8,860.33,0.1,6194.39,C1217,Online
+10860,2025-02-24,North,Software,Antivirus,2,39.96,0.1,71.92,C1205,Online
+10861,2025-02-26,East,Furniture,Chair,2,142.69,0.05,271.1,C1283,Online
+10862,2025-02-26,East,Furniture,Chair,5,146.79,0.15,623.87,C1045,Online
+10863,2025-02-27,South,Electronics,Phone,7,609.15,0.0,4264.06,C1210,Online
+10864,2025-02-27,West,Furniture,Desk,5,307.74,0.15,1307.89,C1094,Retail
+10865,2025-02-28,North,Software,Antivirus,2,40.71,0.15,69.2,C1268,Online
+10866,2025-02-28,North,Software,Cloud Plan,2,93.92,0.05,178.44,C1014,Retail
+10867,2025-02-28,East,Electronics,Headphones,4,123.33,0.1,443.99,C1279,Online
+10868,2025-03-02,West,Furniture,Desk,2,288.67,0.1,519.61,C1080,Partner
+10869,2025-03-02,North,Software,Cloud Plan,7,100.64,0.0,704.45,C1177,Retail
+10870,2025-03-03,North,Furniture,Desk,1,303.52,0.05,288.34,C1280,Online
+10871,2025-03-04,South,Electronics,Headphones,4,110.51,0.0,442.02,C1134,Online
+10872,2025-03-05,West,Office,Printer,4,181.43,0.0,725.73,C1094,Online
+10873,2025-03-05,North,Electronics,Laptop,2,968.82,0.05,1840.75,C1226,Partner
+10874,2025-03-05,South,Office,Notebook,4,8.4,0.1,30.24,C1195,Online
+10875,2025-03-06,East,Electronics,Phone,1,633.23,0.0,633.23,C1219,Partner
+10876,2025-03-06,South,Furniture,Desk,2,305.08,0.0,610.16,C1105,Partner
+10877,2025-03-06,North,Electronics,Phone,2,588.17,0.1,1058.7,C1176,Online
+10878,2025-03-07,North,Electronics,Phone,7,615.31,0.1,3876.47,C1072,Partner
+10879,2025-03-07,South,Software,Cloud Plan,4,89.43,0.15,304.05,C1181,Online
+10880,2025-03-07,South,Office,Notebook,2,7.46,0.05,14.17,C1006,Online
+10881,2025-03-07,West,Furniture,Chair,4,150.74,0.15,512.53,C1112,Retail
+10882,2025-03-07,East,Office,Notebook,1,8.36,0.05,7.94,C1072,Retail
+10883,2025-03-08,East,Software,Cloud Plan,4,90.15,0.0,360.61,C1191,Online
+10884,2025-03-08,West,Furniture,Desk,1,319.34,,319.34,C1086,Online
+10885,2025-03-09,South,Electronics,Laptop,1,915.58,0.0,915.58,C1086,Online
+10886,2025-03-10,South,Furniture,Desk,7,305.16,0.0,2136.13,C1011,missing
+10887,2025-03-11,West,Electronics,Phone,1,588.63,0.0,588.63,C1290,Online
+10888,2025-03-11,North,Electronics,Headphones,8,118.07,0.0,944.57,C1254,Online
+10889,2025-03-12,East,Furniture,Chair,7,150.36,0.05,999.92,C1051,Online
+10890,2025-03-12,East,Software,Cloud Plan,1,96.44,0.15,81.98,C1298,Online
+10891,2025-03-13,North,Office,Printer,2,189.64,0.1,341.36,C1076,Retail
+10892,2025-03-13,South,Furniture,Chair,2,140.54,0.0,281.08,C1104,Online
+10893,2025-03-14, North ,Electronics,Phone,3,600.06,0.15,1530.15,C1127,Online
+10894,2025-03-14,North,Office,Notebook,1,8.54,0.0,8.54,C1277,Retail
+10895,2025-03-15,South,Electronics,Headphones,4,114.29,0.0,457.15,C1106,Online
+10896,2025-03-15,North,Electronics,Headphones,6,117.04,0.1,632.02,C1006,Retail
+10897,2025-03-16,East,Furniture,Chair,10,138.25,0.0,1382.54,C1060,Retail
+10898,2025-03-16,West,Furniture,Chair,6,155.01,0.05,883.53,C1174,Partner
+10899,2025-03-17,West,Electronics,Phone,4,583.38,,2100.15,C1267,Online
+10900,2025-03-18,North,Furniture,Chair,4,138.98,0.05,528.12,C1063,Online
+10901,2025-03-18,North,Electronics,Headphones,4,123.47,0.0,493.88,C1085,Online
+10902,2025-03-19,North,Office,Notebook,4,8.52,0.1,30.66,C1059,Retail
+10903,2025-03-20,North,Electronics,Laptop,1,918.97,0.05,873.02,C1298,Retail
+10904,2025-03-22,West,Furniture,Desk,3,298.88,0.1,806.97,C1036,Online
+10905,2025-03-22,South,Furniture,Desk,1,282.87,0.05,268.73,C1003,Online
+10906,2025-03-23,North,Office,Printer,4,180.96,0.0,723.82,C1198,Online
+10907,2025-03-23,West,Office,Printer,1,189.81,0.05,180.31,C1084,Online
+10908,2025-03-23,South,Software,Antivirus,7,40.69,0.05,270.58,C1147,Online
+10909,2025-03-24,North,Electronics,Phone,3,586.17,0.0,1758.51,C1112,Online
+10910,2025-03-25,North,Office,Notebook,1,7.62,0.1,6.86,C1210,Online
+10911,2025-03-25,East,Furniture,Desk,3,323.01,0.0,969.03,C1152,Online
+10912,2025-03-25,East,Electronics,Phone,6,561.9,0.15,2865.71,C1281,Online
+10913,2025-03-26,North,Software,Antivirus,3,38.17,0.15,97.34,C1263,Retail
+10914,2025-03-26,West,Office,Notebook,7,8.29,0.1,52.22,C1095,Online
+10915,2025-03-26,West,Furniture,Chair,6,152.97,0.15,780.15,C1288,Retail
+10916,2025-03-26,West,Electronics,Phone,4,618.27,0.0,2473.08,C1267,Retail
+10917,2025-03-29,North,Software,Antivirus,3,42.46,0.0,127.37,C1171,Partner
+10918,2025-03-29,North,Furniture,Desk,4,286.59,0.15,974.42,C1112,Online
+10919,2025-03-30,West,Office,Printer,4,181.64,0.15,617.58,C1067,Online
+10920,2025-03-30,South,Software,Antivirus,4,41.98,0.1,151.12,C1197,Online
+10921,2025-03-30,East,Electronics,Headphones,3,122.57,0.15,312.56,C1291,Online
+10922,2025-03-31,East,Electronics,Phone,6,626.02,0.15,3192.7,C1051,Partner
+10923,2025-03-31,North,Furniture,Chair,4,146.96,0.0,587.83,C1130,Partner
+10924,2025-04-02,East,Furniture,Desk,1,290.99,0.05,276.44,C1098,Online
+10925,2025-04-03,West,Electronics,Laptop,1,871.49,0.0,871.49,C1285,Online
+10926,2025-04-03,East,Furniture,Chair,4,140.56,0.15,477.9,C1093,Retail
+10927,2025-04-04,South,Furniture,Chair,1,139.11,0.0,139.11,C1247,Online
+10928,2025-04-04,West,Electronics,Headphones,1,128.08,0.05,121.68,C1026,Online
+10929,2025-04-05,South,Office,Notebook,1,7.97,0.0,7.97,C1102,Online
+10930,2025-04-05,East,Electronics,Laptop,3,941.84,0.05,2684.25,C1000,Online
+10931,2025-04-05,West,Furniture,Chair,7,140.59,0.15,836.49,C1095,Partner
+10932,2025-04-06,East,Electronics,Laptop,3,926.89,0.0,2780.66,C1177,Partner
+10933,2025-04-06,North,Office,Printer,1,171.73,0.0,171.73,C1013,Online
+10934,2025-04-07,North,Office,Printer,3,172.6,0.0,517.8,C1185,Online
+10935,2025-04-07,North,Electronics,Laptop,3,960.62,0.0,2881.85,C1242,missing
+10936,2025-04-08,South,Office,Notebook,4,7.99,0.05,30.35,C1297,Online
+10937,2025-04-08,South,Electronics,Laptop,1,888.1,0.0,888.1,C1169,Retail
+10938,2025-04-08,East,Office,Notebook,1,7.36,0.1,6.62,C1128,Retail
+10939,2025-04-08,South,Office,Printer,4,185.97,0.05,706.7,C1018,Online
+10940,2025-04-08,East,Furniture,Chair,4,146.03,0.1,525.72,C1021,Online
+10941,2025-04-08,West,Furniture,Desk,1,290.38,0.0,290.38,C1070,Online
+10942,2025-04-08,North,Electronics,Phone,1,556.55,0.1,500.89,C1187,Retail
+10943,2025-04-09,East,Software,Cloud Plan,6,101.23,0.05,577.04,C1112,Partner
+10944,2025-04-09,East,Software,Antivirus,3,37.23,0.15,94.93,C1031,Online
+10945,2025-04-09,South,Office,Notebook,6,7.65,0.0,45.87,C1040,Retail
+10946,2025-04-10,North,Furniture,Desk,6,323.22,0.0,1939.35,C1099,Partner
+10947,2025-04-10,East,Software,Antivirus,1,39.99,0.0,39.99,C1226,Retail
+10948,2025-04-10,West,Electronics,Headphones,6,123.18,0.0,739.09,C1061,Retail
+10949,2025-04-10,East,Furniture,Chair,3,158.86,0.0,476.58,C1210,Online
+10950,2025-04-10,West,Electronics,Phone,9,606.95,0.05,5189.46,C1270,Online
+10951,2025-04-11,West,Electronics,Headphones,1,121.54,0.1,109.39,C1070,Online
+10952,2025-04-11,South,Furniture,Desk,3,294.62,0.15,751.27,C1142,Partner
+10953,2025-04-12,East,Office,Notebook,6,8.55,0.15,43.6,C1285,Online
+10954,2025-04-13,South,Software,Antivirus,4,40.41,0.05,153.57,C1077,Retail
+10955,2025-04-14,West,Furniture,Chair,9,154.33,0.1,1250.05,C1203,Online
+10956,2025-04-14,North,Electronics,Headphones,4,118.75,0.1,427.51,C1164,Online
+10957,2025-04-15,South,Office,Notebook,4,8.35,0.05,31.74,C1204,Retail
+10958,2025-04-18,West,Electronics,Headphones,4,125.06,0.15,425.2,C1280,Retail
+10959,2025-04-19,North,Software,Antivirus,4,40.49,0.05,153.86,C1118,Partner
+10960,2025-04-19,East,Software,Cloud Plan,4,89.72,0.15,305.06,C1028,Retail
+10961,2025-04-19,South,Office,Printer,1,173.29,0.0,173.29,C1038,Online
+10962,2025-04-20,West,Electronics,Phone,1,597.26,0.15,507.67,C1102,Online
+10963,2025-04-20,West,Electronics,Headphones,4,118.54,0.1,426.73,C1235,Online
+10964,2025-04-20,South,Office,Notebook,3,8.16,0.0,24.49,C1158,Online
+10965,2025-04-20,East,Software,Cloud Plan,3,101.35,0.0,304.06,C1296,Retail
+10966,2025-04-20,South,Furniture,Chair,1,158.35,0.0,158.35,C1275,Online
+10967,2025-04-21,East,Software,Antivirus,4,41.86,0.05,159.05,C1052,Online
+10968,2025-04-21,East,Office,Printer,1,184.66,0.15,156.96,C1163,Online
+10969,2025-04-21,West,Software,Cloud Plan,3,93.24,0.1,251.73,C1070,Retail
+10970,2025-04-22,North,Office,Printer,1,177.05,0.15,150.49,C1134,Online
+10971,2025-04-22,North,Software,Antivirus,1,43.03,0.15,36.58,C1193,Online
+10972,2025-04-22,East,Office,Notebook,7,7.45,0.0,52.14,C1243,Partner
+10973,2025-04-23,East,Electronics,Headphones,4,123.76,0.15,420.8,C1051,Retail
+10974,2025-04-23,South,Office,Printer,1,182.41,0.1,164.17,C1160,Online
+10975,2025-04-23,North,Office,Printer,4,170.29,0.0,681.15,C1196,Retail
+10976,2025-04-24,South,Software,Antivirus,1,41.6,0.15,35.36,C1219,Partner
+10977,2025-04-25,West,Furniture,Desk,3,322.18,0.0,966.55,C1208,Online
+10978,2025-04-25,North,Electronics,Phone,9,567.08,0.1,4593.34,C1244,Retail
+10979,2025-04-27,South,Electronics,Laptop,7,949.37,0.0,6645.56,C1278,Online
+10980,2025-04-27,West,Office,Printer,3,176.95,0.15,451.22,C1134,Online
+10981,2025-04-28,North,Software,Antivirus,3,38.03,0.1,102.68,C1249,Online
+10982,2025-04-28,East,Software,Antivirus,7,40.09,0.05,266.62,C1016,Online
+10983,2025-04-29,North,Office,Notebook,6,7.89,0.0,47.35,C1291,Online
+10984,2025-04-29,West,Office,Printer,6,188.87,0.0,1133.21,C1091,Online
+10985,2025-04-30,East,Software,Antivirus,6,41.48,0.05,236.43,C1112,Partner
+10986,2025-04-30,West,Software,Cloud Plan,3,90.51,0.1,244.37,C1153,Online
+10987,2025-05-01,North,Electronics,Phone,9,617.03,0.0,5553.26,C1204,Online
+10988,2025-05-01,South,Electronics,Laptop,1,915.45,0.15,778.13,C1235,Retail
+10989,2025-05-01,East,Office,Printer,12,167.68,0.0,2012.14,C1096,Online
+10990,2025-05-01,North,Software,Antivirus,4,38.28,0.0,153.12,C1182,Online
+10991,2025-05-03,North,Office,Notebook,3,8.33,0.0,25.0,C1210,Partner
+10992,2025-05-03, North ,Office,Notebook,1,8.16,0.0,8.16,C1034,Online
+10993,2025-05-04,West,Electronics,Laptop,7,942.57,0.1,5938.17,C1029,Online
+10994,2025-05-04,East,Furniture,Desk,12,315.08,0.15,3213.84,C1010,Online
+10995,2025-05-04,East,Office,Notebook,9,7.5,0.0,67.52,C1200,Online
+10996,2025-05-05,East,Office,Printer,7,181.45,0.15,1079.62,C1102,Online
+10997,2025-05-05,South,Furniture,Chair,1,156.4,0.0,156.4,C1169,Online
+10998,2025-05-05,South,Electronics,Headphones,10,113.65,0.0,1136.54,C1093,Partner
+10999,2025-05-05,South,Electronics,Headphones,4,119.3,0.1,429.47,C1282,Retail
+11000,2025-05-05,East,Electronics,Phone,6,626.19,0.15,3193.59,C1012,Online
+11001,2025-05-06,North,Office,Notebook,9,7.59,0.15,58.06,C1205,Online
+11002,2025-05-08,West,Software,Antivirus,5,38.68,0.1,174.07,C1133,Online
+11003,2025-05-08,West,Office,Notebook,7,7.55,0.1,47.57,C1186,Online
+11004,2025-05-08,South,Electronics,Headphones,2,127.08,0.15,216.04,C1250,Partner
+11005,2025-05-08,East,Software,Antivirus,4,40.15,0.0,160.59,C1091,Partner
+11006,2025-05-10,North,Software,Antivirus,1,38.4,0.0,38.4,C1121,Retail
+11007,2025-05-10,West,Electronics,Phone,4,580.14,0.1,2088.5,C1090,Retail
+11008,2025-05-10,West,Electronics,Phone,5,623.45,0.0,3117.26,C1052,Online
+11009,2025-05-10,West,Electronics,Laptop,7,921.46,0.0,6450.2,C1093,Retail
+11010,2025-05-11,South,Electronics,Laptop,4,877.68,0.0,3510.73,C1125,Online
+11011,2025-05-11,North,Software,Cloud Plan,2,90.66,0.1,163.19,C1239,Online
+11012,2025-05-12,North,Furniture,Desk,8,305.12,0.05,2318.9,C1160,Retail
+11013,2025-05-12,North,Electronics,Phone,2,571.97,0.0,1143.95,C1015,Retail
+11014,2025-05-13,North,Software,Cloud Plan,5,89.64,0.05,425.77,C1230,Online
+11015,2025-05-14,North,Office,Notebook,10,7.5,0.1,67.46,C1018,Online
+11016,2025-05-14,West,Electronics,Headphones,5,119.31,0.15,507.05,C1284,Online
+11017,2025-05-15,North,Electronics,Laptop,2,886.03,0.1,1594.85,C1203,Online
+11018,2025-05-16,North,Software,Cloud Plan,10,98.2,0.15,834.68,C1030,Online
+11019,2025-05-16,West,Office,Notebook,2,8.28,0.0,16.56,C1167,Partner
+11020,2025-05-16,East,Software,Cloud Plan,5,91.32,0.0,456.6,C1293,Retail
+11021,2025-05-16,East,Furniture,Chair,11,160.05,0.0,1760.56,C1063,Online
+11022,2025-05-17,East,Software,Cloud Plan,10,98.9,0.0,989.02,C1271,Retail
+11023,2025-05-18,West,Furniture,Chair,10,141.17,0.05,1341.11,C1182,Online
+11024,2025-05-18,East,Furniture,Chair,4,150.76,0.0,603.02,C1215,Retail
+11025,2025-05-19,South,Electronics,Laptop,8,844.99,0.05,6421.91,C1254,Retail
+11026,2025-05-20,East,Electronics,Laptop,2,906.2,0.1,1631.16,C1216,Partner
+11027,2025-05-22,South,Office,Printer,10,169.05,0.1,1521.48,C1292,Retail
+11028,2025-05-22,South,Furniture,Chair,7,141.27,0.05,939.46,C1196,Online
+11029,2025-05-24,South,Software,Cloud Plan,5,94.9,0.0,474.52,C1258,Partner
+11030,2025-05-24,North,Furniture,Desk,7,302.54,0.05,2011.88,C1167,Partner
+11031,2025-05-24,East,Furniture,Chair,1,146.87,0.0,146.87,C1109,Partner
+11032,2025-05-24,North,Furniture,Desk,4,311.48,,1245.91,C1014,Retail
+11033,2025-05-25,North,Electronics,Phone,4,578.98,0.0,2315.91,C1125,Online
+11034,2025-05-25,North,Software,Antivirus,4,42.38,0.0,169.52,C1253,Online
+11035,2025-05-26,West,Office,Printer,4,184.53,0.15,627.4,C1299,Retail
+11036,2025-05-26,South,Office,Printer,4,182.57,0.15,620.75,C1143,Retail
+11037,2025-05-26,East,Electronics,Laptop,4,924.81,0.15,3144.36,C1200,Retail
+11038,2025-05-26,West,Software,Antivirus,4,41.92,0.0,167.67,C1221,Online
+11039,2025-05-27,North,Furniture,Chair,2,153.65,0.0,307.3,C1132,Retail
+11040,2025-05-27,East,Software,Antivirus,2,41.13,0.05,78.14,C1045,Online
+11041,2025-05-28,South,Electronics,Phone,2,627.84,0.0,1255.69,C1292,Retail
+11042,2025-05-28,North,Software,Cloud Plan,2,101.18,0.15,172.0,C1030,Retail
+11043,2025-05-29,East,Electronics,Laptop,2,848.45,0.0,1696.91,C1032,Retail
+11044,2025-05-30,West,Electronics,Phone,2,574.11,0.0,1148.22,C1253,Partner
+11045,2025-05-30,North,Electronics,Headphones,2,115.49,0.15,196.34,C1279,Retail
+11046,2025-05-31,East,Office,Printer,2,191.05,0.0,382.1,C1101,Retail
+11047,2025-06-02, North ,Software,Cloud Plan,7,96.22,0.15,572.53,C1005,Retail
+11048,2025-06-02,East,Software,Cloud Plan,4,93.44,0.0,373.77,C1003,Online
+11049,2025-06-02,East,Office,Notebook,2,8.12,0.0,16.24,C1052,Online
+11050,2025-06-02,East,Electronics,Headphones,2,112.71,0.1,202.87,C1127,Online
+11051,2025-06-02,East,Office,Notebook,4,8.4,0.0,33.6,C1023,Online
+11052,2025-06-04,North,Electronics,Phone,5,588.16,0.15,2499.69,C1230,Online
+11053,2025-06-05,East,Electronics,Phone,4,580.16,0.0,2320.64,C1298,Online
+11054,2025-06-05,East,Software,Cloud Plan,4,96.39,0.1,347.02,C1034,Online
+11055,2025-06-06,East,Furniture,Chair,4,153.48,0.05,583.23,C1075,Online
+11056,2025-06-08,North,Furniture,Desk,2,287.52,0.1,517.54,C1232,Online
+11057,2025-06-08,South,Furniture,Desk,5,288.93,0.0,1444.66,C1040,Retail
+11058,2025-06-08,South,Office,Notebook,4,7.6,0.0,30.39,C1104,Online
+11059,2025-06-08,North,Electronics,Laptop,2,846.23,0.0,1692.46,C1181,Online
+11060,2025-06-08,North,Electronics,Headphones,7,115.87,0.15,689.41,C1255,Retail
+11061,2025-06-09,South,Furniture,Desk,14,316.8,0.15,3769.93,C1262,Online
+11062,2025-06-10,East,Electronics,Headphones,2,121.65,0.05,231.14,C1280,Online
+11063,2025-06-10,North,Electronics,Laptop,2,927.71,0.15,1577.11,C1153,Partner
+11064,2025-06-11,West,Electronics,Laptop,1,927.65,0.0,927.65,C1120,Partner
+11065,2025-06-11,South,Office,Printer,2,193.15,0.05,366.98,C1010,Online
+11066,2025-06-11,East,Furniture,Chair,2,143.22,0.05,272.12,C1076,Retail
+11067,2025-06-12,South,Furniture,Desk,1,311.33,0.0,311.33,C1290,Online
+11068,2025-06-12,South,Furniture,Chair,2,141.52,,283.04,C1144,Online
+11069,2025-06-12,East,Electronics,Headphones,6,126.25,0.0,757.47,C1240,Retail
+11070,2025-06-12,West,Software,Antivirus,2,39.58,0.0,79.16,C1245,Partner
+11071,2025-06-12,South,Electronics,Laptop,2,913.97,0.05,1736.54,C1137,Online
+11072,2025-06-13,South,Electronics,Headphones,2,113.09,0.0,226.18,C1229,Online
+11073,2025-06-14,East,Office,Notebook,8,7.91,0.15,53.77,C1171,Online
+11074,2025-06-15,East,Electronics,Headphones,4,118.39,0.1,426.21,C1013,Online
+11075,2025-06-15,North,Software,Antivirus,9,40.35,0.05,345.03,C1195,Online
+11076,2025-06-16,South,Electronics,Phone,1,632.14,0.1,568.93,C1213,Online
+11077,2025-06-17,South,Electronics,Headphones,5,124.24,0.0,621.22,C1226,Retail
+11078,2025-06-17,West,Electronics,Laptop,1,866.56,0.0,866.56,C1148,Retail
+11079,2025-06-18,South,Electronics,Laptop,5,927.38,0.1,4173.22,C1224,Online
+11080,2025-06-18,South,Electronics,Phone,1,638.22,0.0,638.22,C1030,Online
+11081,2025-06-19,West,Office,Notebook,8,7.73,0.1,55.66,C1102,Online
+11082,2025-06-20,South,Electronics,Laptop,6,831.52,0.0,4989.09,C1114,Retail
+11083,2025-06-20,North,Electronics,Laptop,5,902.77,0.1,4062.48,C1008,Online
+11084,2025-06-21,North,Electronics,Phone,1,586.88,0.1,528.19,C1141,Online
+11085,2025-06-21,North,Furniture,Chair,5,150.45,0.0,752.26,C1146,Online
+11086,2025-06-21,North,Software,Cloud Plan,4,91.52,0.0,366.09,C1204,Partner
+11087,2025-06-21,South,Furniture,Desk,2,287.05,0.15,487.98,C1258,Online
+11088,2025-06-22,East,Software,Antivirus,5,37.29,0.1,167.78,C1062,Retail
+11089,2025-06-22,East,Electronics,Laptop,5,862.83,0.1,3882.71,C1014,Online
+11090,2025-06-22,North,Software,Cloud Plan,4,97.98,0.0,391.91,C1115,Partner
+11091,2025-06-22,East,Office,Notebook,5,7.5,0.15,31.89,C1177,Retail
+11092,2025-06-22,North,Furniture,Desk,2,285.09,0.05,541.68,C1214,Online
+11093,2025-06-23,West,Office,Printer,5,189.58,0.1,853.09,C1100,Online
+11094,2025-06-23,North,Office,Printer,8,179.85,,1366.87,C1295,Online
+11095,2025-06-23,East,Furniture,Desk,5,287.36,0.0,1436.81,C1142,Retail
+11096,2025-06-23,South,Electronics,Laptop,2,846.37,0.15,1438.83,C1236,Retail
+11097,2025-06-24,East,Furniture,Desk,1,280.41,0.1,252.37,C1023,Online
+11098,2025-06-24,South,Electronics,Headphones,1,126.86,0.1,114.18,C1097,Online
+11099,2025-06-24,East,Electronics,Laptop,5,941.31,0.05,4471.22,C1062,Partner
+11100,2025-06-24,North,Electronics,Phone,2,617.07,0.1,1110.73,C1009,Online
+11101,2025-06-24,West,Office,Notebook,4,8.27,0.0,33.07,C1121,Retail
+11102,2025-06-26,South,Office,Notebook,4,8.11,0.0,32.42,C1224,Retail
+11103,2025-06-26,East,Office,Printer,4,171.74,0.0,686.95,C1298,Retail
+11104,2025-06-27,West,Furniture,Desk,8,294.61,0.0,2356.92,C1049,Online
+11105,2025-06-27,West,Office,Printer,4,165.75,0.15,563.56,C1109,Online
+11106,2025-06-28,North,Furniture,Desk,4,322.19,0.15,1095.45,C1091,Retail
+11107,2025-06-28,North,Electronics,Phone,2,623.64,0.05,1184.92,C1253,Retail
+11108,2025-06-29,North,Furniture,Desk,4,315.02,0.15,1071.07,C1012,missing
+11109,2025-06-29,North,Furniture,Desk,4,279.84,0.15,951.44,C1028,Online
+11110,2025-06-29,East,Software,Cloud Plan,4,92.11,0.15,313.16,C1009,Retail
+11111,2025-07-01,West,Electronics,Phone,1,556.51,0.15,473.03,C1207,Retail
+11112,2025-07-01,West,Electronics,Phone,7,588.21,0.15,3499.84,C1058,Retail
+11113,2025-07-01,South,Furniture,Chair,3,161.83,0.0,485.5,C1045,Online
+11114,2025-07-02,East,Office,Notebook,7,7.51,0.15,44.66,C1063,Online
+11115,2025-07-03,West,Furniture,Chair,2,139.66,0.05,265.36,C1177,Retail
+11116,2025-07-04,West,Electronics,Phone,3,588.2,0.0,1764.6,C1170,Online
+11117,2025-07-04,North,Electronics,Laptop,1,880.08,0.0,880.08,C1159,Retail
+11118,2025-07-06,South,Office,Notebook,3,7.37,0.1,19.9,C1135,Retail
+11119,2025-07-07,West,Office,Printer,5,170.67,0.05,810.67,C1086,Retail
+11120,2025-07-07,South,Furniture,Chair,5,155.76,0.1,700.93,C1236,Partner
+11121,2025-07-08,South,Furniture,Chair,6,160.4,0.15,818.03,C1136,Retail
+11122,2025-07-08,West,Electronics,Laptop,3,922.29,0.1,2490.19,C1279,Online
+11123,2025-07-09,West,Electronics,Laptop,5,858.31,0.15,3647.83,C1276,Retail
+11124,2025-07-09,West,Electronics,Phone,6,634.32,0.15,3235.01,C1064,Online
+11125,2025-07-10,East,Electronics,Laptop,3,864.21,0.1,2333.36,C1066,Online
+11126,2025-07-10,North,Office,Printer,7,193.01,0.05,1283.54,C1250,Online
+11127,2025-07-11,South,Electronics,Laptop,1,915.69,0.1,824.12,C1153,Online
+11128,2025-07-11,South,Office,Notebook,7,7.42,0.0,51.96,C1227,Online
+11129,2025-07-11,East,Office,Printer,2,165.93,0.05,315.27,C1239,Online
+11130,2025-07-12,South,Electronics,Phone,2,576.56,0.0,1153.11,C1210,Online
+11131,2025-07-12,East,Electronics,Phone,10,578.74,0.0,5787.37,C1295,Retail
+11132,2025-07-13,South,Office,Printer,6,193.92,0.1,1047.16,C1297,Online
+11133,2025-07-13,East,Office,Notebook,5,8.28,0.15,35.18,C1266,Retail
+11134,2025-07-14,South,Software,Cloud Plan,3,92.86,0.15,236.79,C1123,Online
+11135,2025-07-14,South,Office,Notebook,5,7.54,0.0,37.71,C1024,Partner
+11136,2025-07-15,North,Software,Cloud Plan,2,98.9,0.1,178.01,C1013,Online
+11137,2025-07-15,North,Office,Notebook,1,7.67,0.15,6.52,C1216,Online
+11138,2025-07-15,West,Furniture,Desk,3,313.19,0.0,939.56,C1299,Online
+11139,2025-07-17,South,Furniture,Desk,3,288.01,0.0,864.04,C1058,Online
+11140,2025-07-17,North,Electronics,Laptop,6,855.17,0.0,5130.99,C1050,Retail
+11141,2025-07-17,East,Electronics,Laptop,5,886.3,0.0,4431.49,C1297,Online
+11142,2025-07-18,East,Electronics,Phone,3,639.16,0.0,1917.49,C1225,Online
+11143,2025-07-18,North,Furniture,Chair,5,139.3,0.0,696.48,C1134,Online
+11144,2025-07-18,South,Electronics,Phone,5,610.89,0.1,2749.0,C1124,Retail
+11145,2025-07-18,North,Electronics,Phone,6,582.56,0.1,3145.85,C1241,Partner
+11146,2025-07-19,East,Electronics,Phone,5,619.39,0.0,3096.95,C1177,Online
+11147,2025-07-19,North,Furniture,Desk,5,320.3,0.0,1601.49,C1034,Retail
+11148,2025-07-20,North,Office,Notebook,3,7.78,0.1,21.0,C1285,Retail
+11149,2025-07-20,North,Electronics,Phone,1,587.07,0.0,587.07,C1166,Partner
+11150,2025-07-21,East,Furniture,Desk,7,282.06,0.15,1678.25,C1042,Online
+11151,2025-07-22,North,Electronics,Phone,2,611.0,0.0,1222.01,C1117,Online
+11152,2025-07-22,West,Furniture,Chair,3,140.78,0.0,422.33,C1266,Retail
+11153,2025-07-22,North,Office,Notebook,2,8.19,0.0,16.37,C1005,Online
+11154,2025-07-22,East,Furniture,Chair,5,142.01,0.1,639.05,C1176,Online
+11155,2025-07-22,South,Office,Notebook,6,7.62,0.1,41.12,C1261,Online
+11156,2025-07-23,South,Electronics,Phone,7,628.87,0.0,4402.1,C1171,Partner
+11157,2025-07-23,North,Electronics,Phone,1,589.26,0.1,530.34,C1231,Online
+11158,2025-07-23,West,Furniture,Chair,3,159.54,0.0,478.63,C1088,Retail
+11159,2025-07-23,West,Electronics,Headphones,1,129.23,,129.23,C1188,Online
+11160,2025-07-23,North,Office,Notebook,5,7.46,0.0,37.32,C1230,Online
+11161,2025-07-24,North,Office,Printer,3,192.98,0.05,549.99,C1114,Online
+11162,2025-07-24,West,Software,Cloud Plan,2,96.99,0.15,164.89,C1147,Online
+11163,2025-07-24,South,Electronics,Laptop,1,922.18,0.1,829.96,C1114,Online
+11164,2025-07-24,North,Electronics,Phone,8,576.6,0.0,4612.77,C1011,Online
+11165,2025-07-25,North,Electronics,Phone,1,566.24,0.0,566.24,C1202,Partner
+11166,2025-07-25,East,Furniture,Desk,7,296.56,0.0,2075.95,C1181,Online
+11167,2025-07-25,East,Electronics,Laptop,4,901.41,0.1,3245.08,C1022,Partner
+11168,2025-07-26,East,Software,Antivirus,6,38.37,0.1,207.22,C1082,Retail
+11169,2025-07-26,West,Furniture,Chair,2,154.74,0.15,263.07,C1037,Retail
+11170,2025-07-26,South,Electronics,Laptop,1,958.27,0.0,958.27,C1236,Retail
+11171,2025-07-27,South,Furniture,Desk,3,298.5,0.0,895.51,C1152,Online
+11172,2025-07-27,South,Electronics,Laptop,1,953.18,0.0,953.18,C1046,Retail
+11173,2025-07-27,South,Furniture,Desk,3,321.29,0.15,819.3,C1285,Partner
+11174,2025-07-27,North,Electronics,Phone,7,571.38,0.1,3599.72,C1269,missing
+11175,2025-07-28,North,Office,Printer,1,194.4,0.05,184.68,C1060,Online
+11176,2025-07-28, South ,Electronics,Phone,3,636.34,0.05,1813.57,C1003,Retail
+11177,2025-07-28,East,Furniture,Chair,2,159.94,0.05,303.89,C1202,Online
+11178,2025-07-29,North,Software,Cloud Plan,3,94.51,0.05,269.35,C1226,Online
+11179,2025-07-29,South,Electronics,Phone,1,608.43,0.1,547.59,C1168,Online
+11180,2025-07-29,East,Office,Notebook,1,7.75,0.1,6.97,C1043,Online
+11181,2025-07-29,East,Office,Notebook,2,8.15,0.1,14.68,C1264,Retail
+11182,2025-07-30,East,Furniture,Chair,4,141.74,0.0,566.96,C1232,missing
+11183,2025-07-31,West,Furniture,Chair,3,160.52,0.0,481.57,C1159,Online
+11184,2025-08-01,East,Office,Printer,3,191.43,0.15,488.15,C1078,Online
+11185,2025-08-02,North,Electronics,Headphones,1,110.63,0.0,110.63,C1023,Partner
+11186,2025-08-02,South,Office,Printer,4,188.16,0.0,752.63,C1109,Retail
+11187,2025-08-03,East,Office,Notebook,3,8.32,0.05,23.72,C1021,Online
+11188,2025-08-03,North,Electronics,Phone,8,561.0,0.0,4488.0,C1289,missing
+11189,2025-08-03,North,Office,Notebook,7,8.23,0.15,49.0,C1191,Online
+11190,2025-08-04, North ,Electronics,Phone,1,598.38,0.0,598.38,C1294,Online
+11191,2025-08-04,South,Office,Notebook,4,8.5,,33.99,C1292,Retail
+11192,2025-08-04,South,Furniture,Chair,6,138.44,0.0,830.62,C1035,Online
+11193,2025-08-04,North,Office,Notebook,6,8.14,0.1,43.93,C1158,Partner
+11194,2025-08-05,West,Electronics,Headphones,2,125.69,0.05,238.81,C1258,Online
+11195,2025-08-05,West,Software,Antivirus,1,41.78,0.0,41.78,C1074,Online
+11196,2025-08-07,North,Office,Printer,1,171.82,0.0,171.82,C1177,Retail
+11197,2025-08-07,West,Office,Printer,4,181.98,0.1,655.11,C1243,Retail
+11198,2025-08-08,North,Office,Printer,2,178.2,0.0,356.4,C1293,Online
+11199,2025-08-08,West,Software,Antivirus,3,40.92,0.05,116.61,C1065,Retail
+11200,2025-08-08,West,Electronics,Laptop,1,955.57,0.0,955.57,C1185,Online
+11201,2025-08-08,North,Software,Cloud Plan,1,97.77,0.15,83.11,C1061,Online
+11202,2025-08-08,East,Office,Notebook,2,8.32,0.05,15.8,C1068,Online
+11203,2025-08-08,West,Office,Notebook,2,8.56,0.0,17.12,C1214,Online
+11204,2025-08-09,West,Office,Printer,3,170.79,0.0,512.38,C1161,Online
+11205,2025-08-09,West,Furniture,Chair,3,158.5,0.05,451.74,C1163,Online
+11206,2025-08-09,East,Office,Notebook,1,7.62,0.15,6.47,C1109,Online
+11207,2025-08-10,North,Office,Printer,2,180.16,0.0,360.33,C1090,Retail
+11208,2025-08-10,West,Electronics,Phone,3,584.6,0.0,1753.8,C1014,Online
+11209,2025-08-10,East,Software,Antivirus,5,39.77,0.1,178.96,C1126,Partner
+11210,2025-08-11,East,Electronics,Laptop,4,851.02,0.05,3233.88,C1124,Online
+11211,2025-08-11,South,Furniture,Desk,8,312.99,0.05,2378.73,C1194,Online
+11212,2025-08-11,East,Office,Printer,1,192.07,0.15,163.26,C1278,Retail
+11213,2025-08-13,North,Software,Cloud Plan,3,92.17,0.1,248.86,C1210,Online
+11214,2025-08-13,East,Office,Notebook,8,7.97,0.05,60.57,C1135,Online
+11215,2025-08-13,North,Electronics,Phone,4,622.74,0.05,2366.42,C1199,Online
+11216,2025-08-13,East,Office,Printer,3,179.7,0.05,512.16,C1147,Partner
+11217,2025-08-13,West,Electronics,Phone,2,583.18,0.1,1049.72,C1228,Online
+11218,2025-08-14,South,Office,Notebook,3,7.96,,23.89,C1061,Online
+11219,2025-08-14,South,Office,Printer,2,185.81,0.05,353.03,C1209,Online
+11220,2025-08-17,South,Software,Cloud Plan,2,101.44,0.0,202.88,C1017,Online
+11221,2025-08-18,West,Office,Notebook,3,7.66,0.15,19.53,C1042,Online
+11222,2025-08-18,East,Furniture,Chair,2,145.11,0.1,261.21,C1277,Partner
+11223,2025-08-19,South,Electronics,Phone,8,601.2,0.05,4569.11,C1201,Online
+11224,2025-08-20,North,Software,Antivirus,3,37.8,0.0,113.39,C1261,Online
+11225,2025-08-22, North ,Electronics,Phone,3,576.81,,1470.86,C1088,Online
+11226,2025-08-22,South,Electronics,Headphones,3,112.25,0.15,286.24,C1279,Partner
+11227,2025-08-23,West,Electronics,Phone,6,575.4,0.15,2934.52,C1264,Online
+11228,2025-08-23,East,Electronics,Phone,2,633.01,0.05,1202.71,C1233,Online
+11229,2025-08-23,North,Software,Antivirus,4,37.64,0.15,127.97,C1089,Online
+11230,2025-08-24,West,Furniture,Desk,3,303.1,0.15,772.9,C1033,Online
+11231,2025-08-24,South,Office,Notebook,3,7.53,0.0,22.6,C1140,Online
+11232,2025-08-25,West,Electronics,Phone,3,597.03,0.0,1791.1,C1152,missing
+11233,2025-08-26,North,Electronics,Phone,4,620.19,0.0,2480.77,C1148,Online
+11234,2025-08-26,East,Electronics,Laptop,1,953.91,0.1,858.52,C1143,Retail
+11235,2025-08-26,West,Software,Cloud Plan,1,97.36,0.05,92.49,C1190,Online
+11236,2025-08-27,North,Software,Antivirus,3,42.87,0.15,109.32,C1260,Online
+11237,2025-08-27,East,Furniture,Desk,3,321.75,0.1,868.72,C1083,Online
+11238,2025-08-27,West,Office,Printer,3,189.75,0.1,512.32,C1141,Online
+11239,2025-08-28,North,Electronics,Phone,1,567.05,0.05,538.7,C1280,Online
+11240,2025-08-29,North,Furniture,Desk,3,303.2,0.15,773.16,C1142,Online
+11241,2025-08-29,East,Office,Printer,4,166.81,0.15,567.15,C1279,Retail
+11242,2025-08-30,South,Electronics,Laptop,4,941.1,0.0,3764.41,C1038,Partner
+11243,2025-08-30,North,Electronics,Phone,1,617.4,,586.53,C1270,Online
+11244,2025-08-31,South,Electronics,Headphones,3,117.36,0.1,316.87,C1218,Online
+11245,2025-08-31,East,Office,Notebook,5,7.77,0.05,36.9,C1135,Retail
+11246,2025-08-31,North,Software,Antivirus,4,37.56,0.0,150.25,C1122,Online
+11247,2025-09-01,South,Office,Notebook,5,8.37,0.05,39.74,C1006,Online
+11248,2025-09-01,West,Electronics,Headphones,4,128.2,0.0,512.8,C1150,Retail
+11249,2025-09-02,South,Software,Cloud Plan,2,90.13,0.15,153.21,C1190,Online
+11250,2025-09-03,West,Electronics,Phone,5,604.93,0.05,2873.42,C1105,Retail
+11251,2025-09-03,South,Electronics,Laptop,5,925.45,0.1,4164.53,C1154,Online
+11252,2025-09-03,West,Software,Cloud Plan,3,89.36,0.0,268.09,C1036,Online
+11253,2025-09-04,East,Software,Antivirus,4,42.21,0.1,151.95,C1219,Retail
+11254,2025-09-04,North,Electronics,Phone,1,587.47,0.0,587.47,C1026,Retail
+11255,2025-09-05,West,Electronics,Headphones,3,111.74,0.05,318.44,C1064,Online
+11256,2025-09-05,South,Office,Printer,2,176.96,0.1,318.53,C1056,Online
+11257,2025-09-06,North,Furniture,Chair,3,148.18,0.15,377.85,C1266,Online
+11258,2025-09-06,North,Software,Cloud Plan,5,93.26,,442.99,C1067,Retail
+11259,2025-09-06,East,Furniture,Desk,3,297.74,0.1,803.91,C1053,Retail
+11260,2025-09-06,North,Furniture,Chair,3,142.9,0.0,428.69,C1161,Online
+11261,2025-09-06,North,Furniture,Desk,2,298.7,0.0,597.4,C1105,Online
+11262,2025-09-07,North,Electronics,Phone,5,618.85,0.0,3094.26,C1090,Retail
+11263,2025-09-07,South,Software,Antivirus,3,41.78,0.0,125.35,C1044,Retail
+11264,2025-09-08,South,Electronics,Laptop,1,868.54,0.0,868.54,C1060,Online
+11265,2025-09-08,South,Office,Printer,4,174.37,0.0,697.48,C1234,Retail
+11266,2025-09-08,North,Electronics,Laptop,2,923.19,0.1,1661.74,C1068,Partner
+11267,2025-09-09,North,Furniture,Desk,4,313.52,0.1,1128.68,C1187,Online
+11268,2025-09-09,East,Office,Notebook,6,7.53,0.0,45.16,C1137,Online
+11269,2025-09-10,South,Electronics,Phone,1,627.05,0.1,564.34,C1050,Online
+11270,2025-09-10,East,Office,Notebook,3,8.31,0.0,24.94,C1225,Online
+11271,2025-09-10,North,Electronics,Phone,2,558.19,0.0,1116.39,C1284,Online
+11272,2025-09-11,North,Office,Printer,4,181.17,0.0,724.67,C1257,Retail
+11273,2025-09-11,North,Electronics,Phone,3,614.79,0.05,1752.14,C1279,Online
+11274,2025-09-12,South,Electronics,Laptop,1,946.91,0.0,946.91,C1255,Retail
+11275,2025-09-12,South,Furniture,Desk,3,277.26,0.0,831.77,C1221,Retail
+11276,2025-09-13,West,Furniture,Desk,4,319.64,0.1,1150.69,C1017,Online
+11277,2025-09-13,South,Software,Antivirus,2,37.78,0.05,71.78,C1090,Online
+11278,2025-09-13,South,Electronics,Headphones,3,113.54,0.15,289.52,C1016,Online
+11279,2025-09-13,East,Electronics,Phone,3,644.06,0.0,1932.17,C1178,Online
+11280,2025-09-14,North,Electronics,Headphones,3,111.86,0.0,335.59,C1008,Online
+11281,2025-09-14,South,Furniture,Desk,1,317.79,0.0,317.79,C1122,Retail
+11282,2025-09-14,South,Electronics,Phone,4,576.91,0.05,2192.26,C1212,Retail
+11283,2025-09-14,South,Furniture,Chair,4,149.85,0.0,599.38,C1183,Online
+11284,2025-09-15,North,Office,Printer,2,184.47,0.1,332.04,C1295,Online
+11285,2025-09-15,East,Electronics,Phone,5,622.53,0.1,2801.41,C1033,Retail
+11286,2025-09-15,West,Electronics,Phone,2,564.6,0.0,1129.2,C1219,Partner
+11287,2025-09-16,North,Software,Antivirus,3,38.26,0.05,109.05,C1121,Online
+11288,2025-09-16,East,Office,Notebook,1,7.96,,7.96,C1201,Online
+11289,2025-09-16,East,Electronics,Headphones,2,114.73,0.15,195.04,C1189,Online
+11290,2025-09-16,North,Furniture,Chair,5,145.22,0.1,653.51,C1244,Online
+11291,2025-09-17,East,Office,Printer,1,174.56,0.05,165.83,C1299,Online
+11292,2025-09-17,East,Software,Cloud Plan,6,101.14,,546.15,C1082,Online
+11293,2025-09-17,West,Furniture,Desk,7,286.95,0.0,2008.63,C1283,Online
+11294,2025-09-18,West,Electronics,Phone,1,607.07,0.0,607.07,C1178,Online
+11295,2025-09-18,North,Electronics,Headphones,2,116.58,0.0,233.17,C1058,Online
+11296,2025-09-18,South,Office,Printer,3,184.59,0.15,470.72,C1239,Online
+11297,2025-09-19,South,Furniture,Chair,3,148.95,0.15,379.83,C1260,Retail
+11298,2025-09-19,North,Electronics,Headphones,1,112.25,0.0,112.25,C1227,Retail
+11299,2025-09-19,South,Software,Antivirus,9,41.81,0.0,376.31,C1025,Online
+11300,2025-09-20,West,Electronics,Phone,3,554.29,0.0,1662.87,C1269,Online
+11301,2025-09-21,North,Office,Notebook,1,8.17,0.15,6.95,C1153,Online
+11302,2025-09-21,South,Office,Notebook,4,8.52,0.15,28.97,C1104,Online
+11303,2025-09-22,West,Electronics,Phone,3,615.27,0.0,1845.8,C1298,Retail
+11304,2025-09-23,South,Software,Cloud Plan,2,89.01,0.1,160.22,C1145,Retail
+11305,2025-09-23,South,Electronics,Phone,3,573.63,0.0,1720.88,C1146,Online
+11306,2025-09-24,West,Office,Notebook,3,7.61,0.0,22.84,C1191,Online
+11307,2025-09-25,South,Software,Antivirus,3,39.34,0.0,118.03,C1297,Online
+11308,2025-09-25,North,Furniture,Desk,4,322.72,0.0,1290.88,C1270,Retail
+11309,2025-09-26,North,Software,Antivirus,2,39.99,0.1,71.98,C1035,Retail
+11310,2025-09-26,West,Electronics,Laptop,3,948.23,0.0,2844.7,C1059,Online
+11311,2025-09-26,North,Furniture,Chair,2,153.16,0.15,260.37,C1170,Online
+11312,2025-09-29,South,Office,Printer,1,179.48,0.05,170.51,C1128,Online
+11313,2025-10-01,North,Office,Printer,2,167.81,0.15,285.28,C1073,Retail
+11314,2025-10-01,South,Office,Printer,6,169.25,0.0,1015.47,C1164,Online
+11315,2025-10-01,West,Electronics,Laptop,2,884.77,0.0,1769.54,C1156,Partner
+11316,2025-10-01,South,Electronics,Laptop,3,946.56,0.1,2555.72,C1156,Online
+11317,2025-10-03,West,Office,Notebook,2,8.42,0.0,16.84,C1038,Retail
+11318,2025-10-04,North,Electronics,Phone,4,578.09,0.1,2081.12,C1199,Partner
+11319,2025-10-04,South,Electronics,Laptop,5,842.8,0.15,3581.9,C1078,Online
+11320,2025-10-05,West,Office,Printer,2,183.05,0.0,366.09,C1110,Partner
+11321,2025-10-06,South,Office,Notebook,4,7.95,0.15,27.02,C1293,Online
+11322,2025-10-06,North,Electronics,Headphones,3,125.83,0.0,377.49,C1277,Retail
+11323,2025-10-08,West,Electronics,Laptop,4,967.36,0.0,3869.44,C1214,Online
+11324,2025-10-09,South,Electronics,Laptop,3,882.21,0.1,2381.96,C1080,Partner
+11325,2025-10-09,South,Electronics,Phone,7,558.01,0.0,3906.1,C1111,Online
+11326,2025-10-10,West,Office,Notebook,5,8.03,0.1,36.13,C1177,Retail
+11327,2025-10-10,North,Electronics,Phone,3,628.41,0.05,1790.96,C1186,Retail
+11328,2025-10-11,South,Electronics,Headphones,2,114.68,0.05,217.89,C1201,Online
+11329,2025-10-11,North,Electronics,Headphones,4,128.06,0.15,435.42,C1024,missing
+11330,2025-10-13,South,Electronics,Headphones,3,122.13,0.1,329.76,C1089,Retail
+11331,2025-10-13,North,Electronics,Phone,4,637.71,0.05,2423.32,C1225,Online
+11332,2025-10-13,East,Electronics,Laptop,1,951.11,0.0,951.11,C1094,Online
+11333,2025-10-13,North,Electronics,Headphones,3,114.82,0.15,292.78,C1137,Retail
+11334,2025-10-14,East,Electronics,Laptop,3,882.98,0.0,2648.93,C1288,Online
+11335,2025-10-15,North,Office,Printer,5,181.59,0.0,907.97,C1187,Retail
+11336,2025-10-15,South,Software,Antivirus,4,38.13,,129.65,C1073,Online
+11337,2025-10-16,South,Electronics,Phone,1,566.3,0.0,566.3,C1216,Online
+11338,2025-10-17,East,Electronics,Headphones,2,116.61,0.05,221.56,C1171,Online
+11339,2025-10-17,South,Electronics,Headphones,2,114.05,0.05,216.7,C1072,Online
+11340,2025-10-17,South,Software,Antivirus,2,37.41,0.0,74.82,C1111,Online
+11341,2025-10-18,West,Software,Antivirus,3,37.82,0.0,113.45,C1194,Online
+11342,2025-10-18,East,Office,Printer,1,183.26,,183.26,C1008,Retail
+11343,2025-10-18,North,Office,Notebook,3,8.45,0.0,25.34,C1271,Retail
+11344,2025-10-20,West,Furniture,Desk,6,312.38,0.05,1780.59,C1191,Retail
+11345,2025-10-21,South,Office,Printer,4,181.53,0.15,617.21,C1186,Online
+11346,2025-10-21,North,Software,Cloud Plan,4,91.77,0.0,367.08,C1188,Online
+11347,2025-10-21,South,Electronics,Phone,4,582.01,0.1,2095.24,C1105,Partner
+11348,2025-10-21,North,Furniture,Desk,4,301.1,0.1,1083.95,C1094,Online
+11349,2025-10-21,North,Software,Cloud Plan,1,98.37,0.0,98.37,C1251,Retail
+11350,2025-10-22,East,Office,Printer,4,169.9,0.0,679.6,C1086,Retail
+11351,2025-10-23,North,Electronics,Laptop,2,884.41,0.1,1591.93,C1231,Online
+11352,2025-10-23,West,Office,Printer,1,166.24,0.05,157.92,C1138,Retail
+11353,2025-10-25,West,Software,Antivirus,8,37.38,0.0,299.05,C1241,Partner
+11354,2025-10-25,East,Software,Cloud Plan,2,100.26,0.0,200.52,C1199,Online
+11355,2025-10-26,East,Electronics,Phone,1,574.2,0.15,488.07,C1128,Retail
+11356,2025-10-26,East,Office,Notebook,3,8.39,0.1,22.66,C1270,Retail
+11357,2025-10-26,West,Office,Printer,2,187.08,0.0,374.17,C1263,Online
+11358,2025-10-26,South,Furniture,Chair,2,144.45,0.05,274.46,C1041,Online
+11359,2025-10-27,North,Furniture,Chair,4,158.69,0.1,571.27,C1037,Retail
+11360,2025-10-29,South,Software,Cloud Plan,5,101.23,0.0,506.17,C1175,Online
+11361,2025-10-31,South,Office,Notebook,3,7.78,0.05,22.16,C1151,Retail
+11362,2025-10-31,North,Software,Cloud Plan,5,97.98,0.15,416.4,C1086,Online
+11363,2025-10-31,East,Electronics,Headphones,4,117.9,,400.87,C1016,Partner
+11364,2025-10-31,North,Furniture,Chair,2,148.94,0.05,283.0,C1051,Online
+11365,2025-11-01,West,Software,Cloud Plan,1,96.95,0.05,92.1,C1099,Partner
+11366,2025-11-01,North,Office,Notebook,4,7.91,,30.06,C1057,Retail
+11367,2025-11-02,North,Software,Cloud Plan,5,95.81,0.05,455.12,C1207,Partner
+11368,2025-11-02,North,Office,Notebook,1,8.26,0.0,8.26,C1127,Retail
+11369,2025-11-02,North,Electronics,Headphones,8,128.6,0.0,1028.78,C1116,Retail
+11370,2025-11-03,North,Electronics,Laptop,7,857.56,0.15,5102.48,C1071,missing
+11371,2025-11-03,North,Electronics,Headphones,3,110.86,0.05,315.96,C1283,Partner
+11372,2025-11-03,North,Software,Cloud Plan,4,91.46,0.05,347.57,C1041,Retail
+11373,2025-11-04,North,Electronics,Headphones,1,124.33,0.0,124.33,C1167,Online
+11374,2025-11-04,South,Furniture,Chair,3,144.6,0.0,433.79,C1289,Retail
+11375,2025-11-04,South,Electronics,Headphones,11,111.15,0.15,1039.28,C1113,Online
+11376,2025-11-05,South,Furniture,Desk,3,309.67,0.15,789.66,C1296,Online
+11377,2025-11-05, South ,Office,Notebook,3,8.3,0.15,21.15,C1143,Retail
+11378,2025-11-06,North,Office,Printer,8,174.38,0.15,1185.77,C1000,Partner
+11379,2025-11-07,North,Furniture,Chair,6,139.13,0.15,709.58,C1155,Online
+11380,2025-11-07,North,Electronics,Headphones,3,113.34,0.0,340.01,C1086,Partner
+11381,2025-11-07,East,Office,Printer,6,184.2,0.0,1105.18,C1118,Online
+11382,2025-11-07,West,Furniture,Chair,2,151.91,0.05,288.62,C1183,Retail
+11383,2025-11-07,West,Electronics,Phone,1,552.76,0.0,552.76,C1056,Online
+11384,2025-11-08,South,Office,Notebook,1,8.2,0.15,6.97,C1186,Retail
+11385,2025-11-08,South,Electronics,Phone,1,640.8,0.05,608.76,C1072,Partner
+11386,2025-11-08,South,Software,Cloud Plan,3,92.27,0.15,235.3,C1254,Online
+11387,2025-11-09,East,Furniture,Chair,1,143.28,0.05,136.12,C1257,Online
+11388,2025-11-09,East,Office,Notebook,3,7.97,0.0,23.91,C1147,Online
+11389,2025-11-09,West,Office,Printer,7,191.57,0.05,1273.94,C1179,Partner
+11390,2025-11-11,West,Electronics,Headphones,4,120.12,0.1,432.43,C1040,Partner
+11391,2025-11-11, South ,Office,Notebook,3,8.39,0.15,21.39,C1121,Retail
+11392,2025-11-11,East,Office,Printer,6,186.89,0.15,953.16,C1192,Retail
+11393,2025-11-11,West,Office,Notebook,6,8.06,0.0,48.33,C1146,Online
+11394,2025-11-13,South,Software,Cloud Plan,6,88.63,0.05,505.19,C1075,Online
+11395,2025-11-13,West,Office,Notebook,1,8.43,0.0,8.43,C1216,missing
+11396,2025-11-14,North,Software,Antivirus,8,38.02,0.1,273.72,C1058,Retail
+11397,2025-11-14,West,Software,Antivirus,3,37.11,0.15,94.64,C1080,Online
+11398,2025-11-15,East,Electronics,Phone,1,615.56,0.15,523.22,C1108,Online
+11399,2025-11-15,North,Software,Antivirus,2,42.9,0.1,77.23,C1097,Retail
+11400,2025-11-15,East,Furniture,Chair,2,143.24,0.15,243.51,C1140,Partner
+11401,2025-11-15,North,Office,Notebook,1,8.17,0.0,8.17,C1016,Online
+11402,2025-11-15,East,Software,Cloud Plan,3,92.4,0.0,277.2,C1012,Retail
+11403,2025-11-16,East,Electronics,Phone,1,620.0,0.0,620.0,C1272,Partner
+11404,2025-11-16,East,Electronics,Headphones,4,118.35,0.05,449.71,C1120,Retail
+11405,2025-11-16,West,Software,Cloud Plan,9,100.24,0.1,811.94,C1052,Retail
+11406,2025-11-17,North,Furniture,Chair,3,142.32,0.05,405.62,C1120,Online
+11407,2025-11-18,North,Electronics,Phone,7,587.75,0.0,4114.22,C1109,Online
+11408,2025-11-18,South,Office,Notebook,4,8.2,0.15,27.88,C1065,Online
+11409,2025-11-18,North,Furniture,Chair,4,138.84,0.0,555.36,C1184,Retail
+11410,2025-11-22,South,Office,Printer,6,182.25,,1038.85,C1097,Partner
+11411,2025-11-22,North,Electronics,Laptop,1,861.51,0.1,775.36,C1010,Online
+11412,2025-11-23,South,Electronics,Phone,3,631.61,0.05,1800.09,C1176,Online
+11413,2025-11-23,South,Electronics,Phone,1,589.29,0.0,589.29,C1265,Partner
+11414,2025-11-24,West,Software,Antivirus,3,41.61,0.0,124.82,C1157,Partner
+11415,2025-11-24,North,Electronics,Laptop,1,893.47,0.0,893.47,C1290,Retail
+11416,2025-11-24,West,Electronics,Phone,7,636.02,0.1,4006.95,C1064,Online
+11417,2025-11-24,South,Electronics,Laptop,6,916.67,0.15,4674.99,C1014,Retail
+11418,2025-11-25,South,Furniture,Desk,1,292.03,0.05,277.43,C1202,Online
+11419,2025-11-26,South,Software,Antivirus,2,41.52,0.1,74.74,C1058,Retail
+11420,2025-11-26,South,Electronics,Headphones,6,127.64,0.0,765.86,C1070,Online
+11421,2025-11-27,North,Electronics,Headphones,2,112.2,0.1,201.97,C1257,Retail
+11422,2025-11-27,South,Furniture,Desk,3,320.28,0.0,960.85,C1240,Online
+11423,2025-11-27,North,Electronics,Phone,6,590.27,0.15,3010.35,C1232,Online
+11424,2025-11-28,South,Office,Printer,2,185.98,0.0,371.97,C1248,Retail
+11425,2025-11-29,East,Electronics,Laptop,6,929.34,0.05,5297.26,C1171,Retail
+11426,2025-11-29,South,Electronics,Phone,6,577.63,0.0,3465.77,C1013,Retail
+11427,2025-12-01,West,Electronics,Headphones,3,114.24,0.05,325.59,C1042,Online
+11428,2025-12-01,North,Furniture,Desk,1,297.62,0.1,267.86,C1205,Retail
+11429,2025-12-01, West ,Office,Notebook,3,8.45,0.0,25.35,C1244,Online
+11430,2025-12-01,East,Electronics,Headphones,6,123.94,0.1,669.26,C1150,Partner
+11431,2025-12-02,West,Electronics,Phone,6,641.11,0.1,3462.0,C1188,Partner
+11432,2025-12-02,West,Software,Antivirus,5,40.93,0.15,173.97,C1191,Retail
+11433,2025-12-02,North,Electronics,Laptop,7,871.41,0.1,5489.85,C1046,Online
+11434,2025-12-02,South,Electronics,Headphones,13,115.83,0.05,1430.46,C1298,Online
+11435,2025-12-02,North,Electronics,Phone,1,560.35,0.15,476.3,C1088,Online
+11436,2025-12-02,West,Furniture,Chair,1,152.73,0.15,129.82,C1128,Online
+11437,2025-12-03,East,Electronics,Headphones,7,120.32,0.0,842.26,C1080,Partner
+11438,2025-12-03,North,Software,Cloud Plan,2,91.06,0.0,182.13,C1111,Online
+11439,2025-12-03,West,Electronics,Phone,6,578.59,0.0,3471.51,C1219,Online
+11440,2025-12-04,North,Office,Notebook,6,8.55,0.05,48.71,C1263,Online
+11441,2025-12-04,East,Office,Notebook,7,8.28,0.05,55.09,C1220,Partner
+11442,2025-12-04,East,Electronics,Phone,2,584.87,0.0,1169.73,C1099,Retail
+11443,2025-12-04,North,Furniture,Desk,6,282.92,0.1,1527.74,C1228,Retail
+11444,2025-12-05,East,Office,Printer,1,171.72,0.05,163.13,C1251,missing
+11445,2025-12-05,West,Electronics,Headphones,7,122.79,0.05,816.54,C1216,Online
+11446,2025-12-05,North,Software,Antivirus,3,42.15,0.0,126.46,C1249,Retail
+11447,2025-12-05,South,Electronics,Phone,3,562.7,0.05,1603.7,C1193,Online
+11448,2025-12-05,North,Office,Notebook,1,7.38,0.05,7.01,C1283,Online
+11449,2025-12-07,East,Electronics,Headphones,2,119.23,0.05,226.54,C1285,Online
+11450,2025-12-07,North,Office,Notebook,9,7.52,0.1,60.94,C1259,Retail
+11451,2025-12-08,West,Software,Cloud Plan,2,101.33,0.15,172.26,C1233,Retail
+11452,2025-12-08,West,Electronics,Phone,5,596.33,0.15,2534.41,C1181,Online
+11453,2025-12-08,North,Electronics,Laptop,3,877.61,0.0,2632.83,C1275,Online
+11454,2025-12-09,South,Office,Printer,1,180.9,,180.9,C1229,Partner
+11455,2025-12-09,East,Electronics,Phone,3,621.4,0.05,1770.98,C1033,Partner
+11456,2025-12-09,East,Furniture,Desk,3,286.45,0.1,773.41,C1025,Online
+11457,2025-12-09, South ,Electronics,Headphones,7,125.51,0.0,878.56,C1139,Partner
+11458,2025-12-10,North,Software,Cloud Plan,8,91.57,0.0,732.56,C1017,Online
+11459,2025-12-10,North,Furniture,Desk,1,302.91,0.15,257.47,C1241,Online
+11460,2025-12-11,West,Furniture,Chair,4,145.67,0.0,582.68,C1236,Online
+11461,2025-12-11,South,Office,Printer,1,172.75,0.15,146.84,C1166,Retail
+11462,2025-12-12,West,Office,Printer,9,168.83,0.15,1291.55,C1293,Online
+11463,2025-12-12,South,Office,Printer,4,179.52,0.0,718.07,C1203,Online
+11464,2025-12-13,West,Electronics,Headphones,1,124.46,0.1,112.01,C1238,Online
+11465,2025-12-14,North,Software,Cloud Plan,1,91.46,0.0,91.46,C1029,Online
+11466,2025-12-15,North,Office,Notebook,1,8.03,0.15,6.82,C1144,Online
+11467,2025-12-15,West,Software,Cloud Plan,4,94.7,0.0,378.79,C1268,Online
+11468,2025-12-17,West,Office,Printer,5,172.3,0.15,732.27,C1041,Online
+11469,2025-12-17,South,Furniture,Desk,1,292.08,0.0,292.08,C1050,Online
+11470,2025-12-17,South,Furniture,Chair,6,141.3,0.0,847.82,C1230,Online
+11471,2025-12-17,South,Electronics,Phone,4,597.58,0.05,2270.79,C1045,Online
+11472,2025-12-17,South,Furniture,Chair,6,151.02,0.0,906.1,C1013,Partner
+11473,2025-12-18,North,Furniture,Chair,1,140.38,0.0,140.38,C1229,Online
+11474,2025-12-19,West,Electronics,Headphones,8,123.64,0.1,890.2,C1115,Online
+11475,2025-12-20,North,Software,Cloud Plan,1,88.33,0.0,88.33,C1180,Retail
+11476,2025-12-20,East,Furniture,Desk,4,293.93,0.0,1175.71,C1003,Retail
+11477,2025-12-20,North,Electronics,Phone,2,591.08,0.15,1004.84,C1066,Retail
+11478,2025-12-20,North,Electronics,Phone,4,596.82,0.15,2029.2,C1006,Retail
+11479,2025-12-20,East,Furniture,Desk,4,314.85,0.1,1133.47,C1249,Online
+11480,2025-12-21,South,Software,Cloud Plan,1,95.34,0.0,95.34,C1015,Retail
+11481,2025-12-22,East,Software,Antivirus,4,40.96,0.05,155.63,C1146,Retail
+11482,2025-12-24,North,Furniture,Desk,4,309.87,0.1,1115.51,C1261,Online
+11483,2025-12-24,West,Software,Antivirus,1,38.61,0.15,32.82,C1016,Partner
+11484,2025-12-24,East,Furniture,Desk,9,313.1,0.1,2536.13,C1126,Online
+11485,2025-12-25,West,Office,Printer,1,191.32,0.05,181.75,C1216,Partner
+11486,2025-12-26,North,Office,Printer,7,189.37,0.15,1126.74,C1153,Online
+11487,2025-12-26,South,Office,Notebook,2,8.48,0.1,15.26,C1257,Online
+11488,2025-12-28,South,Electronics,Laptop,2,944.17,0.0,1888.33,C1082,Online
+11489,2025-12-28,South,Furniture,Chair,7,141.67,0.0,991.72,C1259,Online
+11490,2025-12-28,North,Electronics,Headphones,7,127.71,0.15,759.85,C1067,Retail
+11491,2025-12-28,North,Software,Cloud Plan,1,94.6,0.15,80.41,C1253,Online
+11492,2025-12-29,South,Software,Cloud Plan,4,93.35,0.0,373.41,C1018,Retail
+11493,2025-12-29,North,Software,Cloud Plan,8,88.82,0.0,710.58,C1257,Partner
+11494,2025-12-29,South,Software,Antivirus,1,42.43,0.15,36.07,C1154,Online
+11495,2025-12-30,North,Electronics,Headphones,4,120.06,0.15,408.2,C1136,Online
+11496,2025-12-30,North,Software,Cloud Plan,7,96.9,0.0,678.29,C1239,Online
+11497,2025-12-30,East,Electronics,Phone,2,624.99,0.0,1249.98,C1230,Online
+11498,2025-12-31,South,Furniture,Desk,7,306.59,0.0,2146.14,C1198,Online
+11499,2025-12-31,South,Office,Printer,1,176.84,0.1,159.16,C1128,Retail
+10091,2024-02-14,East,Electronics,Headphones,3,116.66,0.0,349.99,C1171,Online
+10075,2024-02-07,North,Electronics,Phone,1,642.37,0.0,642.37,C1043,Partner
+11264,2025-09-08,South,Electronics,Laptop,1,868.54,0.0,868.54,C1060,Online
+10330,2024-06-17,North,Furniture,Desk,4,281.77,0.05,1070.74,C1152,Online
+11349,2025-10-21,North,Software,Cloud Plan,1,98.37,0.0,98.37,C1251,Retail
+10774,2025-01-15,East,Furniture,Chair,3,159.17,0.0,477.51,C1237,Partner
+11038,2025-05-26,West,Software,Antivirus,4,41.92,0.0,167.67,C1221,Online
+11285,2025-09-15,East,Electronics,Phone,5,622.53,0.1,2801.41,C1033,Retail
+11165,2025-07-25,North,Electronics,Phone,1,566.24,0.0,566.24,C1202,Partner
+10335,2024-06-20,East,Office,Notebook,5,8.24,0.15,35.03,C1184,Retail
+10685,2024-12-06,West,Software,Cloud Plan,2,101.68,0.0,203.36,C1101,Online
+10181,2024-03-28,South,Electronics,Headphones,2,110.7,0.0,221.4,C1006,Online
