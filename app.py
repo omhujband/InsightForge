@@ -1,7 +1,7 @@
 """InsightForge - AI Data Analyst - Streamlit entry point.  Run:  streamlit run app.py"""
 import streamlit as st
 
-st.set_page_config(page_title="InsightForge - AI Data Analyst", page_icon="📊", layout="wide")
+st.set_page_config(page_title="InsightForge", page_icon="📊", layout="wide")
 
 from pathlib import Path  # noqa: E402
 
@@ -79,7 +79,7 @@ def main():
     for k, v in DEFAULTS.items():
         st.session_state.setdefault(k, v)
 
-    st.sidebar.title("📊 InsightForge - AI Data Analyst")
+    st.sidebar.title("📊 InsightForge")
     user = auth.require_login()
     router, embedder = get_router(), get_embedder_cached()
 
