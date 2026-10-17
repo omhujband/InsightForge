@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,customer_segment,region,category,sub_category,quantity,unit_price,discount,revenue,profit,returned,payment_method
+ORD-1001,2025-01-05,CUST-101,Consumer,North,Technology,Laptops,2,1000.00,0.10,1800.00,500.00,No,Credit Card
+ORD-1002,2025-01-08,CUST-102,Corporate,South,Furniture,Chairs,4,150.00,0.00,600.00,180.00,No,PayPal
+ORD-1003,2025-01-12,CUST-103,Small Business,East,Office Supplies,Paper,10,25.00,0.00,250.00,80.00,No,UPI
+ORD-1004,2025-01-15,CUST-104,Consumer,West,Technology,Smartphones,1,800.00,0.00,800.00,240.00,Yes,Debit Card
+ORD-1005,2025-01-20,CUST-105,Corporate,North,Furniture,Desks,2,300.00,0.10,540.00,140.00,No,Credit Card
+ORD-1006,2025-01-25,CUST-106,Consumer,South,Technology,Accessories,5,40.00,0.00,200.00,70.00,No,Credit Card
+ORD-1007,2025-01-28,CUST-107,Small Business,East,Furniture,Bookshelves,3,120.00,0.00,360.00,100.00,No,PayPal
+ORD-1008,2025-02-02,CUST-108,Corporate,West,Office Supplies,Binders,8,15.00,0.00,120.00,40.00,No,UPI
+ORD-1009,2025-02-06,CUST-101,Consumer,North,Furniture,Chairs,2,150.00,0.00,300.00,90.00,No,Credit Card
+ORD-1010,2025-02-10,CUST-109,Corporate,South,Technology,Laptops,1,1200.00,0.05,1140.00,320.00,No,Credit Card
+ORD-1011,2025-02-14,CUST-110,Consumer,East,Technology,Smartphones,2,700.00,0.10,1260.00,380.00,No,Debit Card
+ORD-1012,2025-02-18,CUST-111,Small Business,West,Furniture,Desks,1,400.00,0.00,400.00,110.00,Yes,PayPal
+ORD-1013,2025-02-22,CUST-112,Corporate,North,Office Supplies,Storage,4,50.00,0.00,200.00,60.00,No,UPI
+ORD-1014,2025-02-26,CUST-113,Consumer,South,Technology,Accessories,4,50.00,0.00,200.00,65.00,No,Credit Card
+ORD-1015,2025-03-01,CUST-102,Corporate,East,Furniture,Chairs,6,150.00,0.10,810.00,220.00,No,PayPal
+ORD-1016,2025-03-05,CUST-114,Small Business,West,Office Supplies,Paper,20,20.00,0.05,380.00,110.00,No,UPI
+ORD-1017,2025-03-09,CUST-115,Consumer,North,Technology,Smartphones,1,900.00,0.00,900.00,280.00,No,Credit Card
+ORD-1018,2025-03-13,CUST-116,Corporate,South,Furniture,Bookshelves,2,150.00,0.00,300.00,85.00,No,Debit Card
+ORD-1019,2025-03-17,CUST-117,Consumer,East,Office Supplies,Binders,5,20.00,0.00,100.00,35.00,No,UPI
+ORD-1020,2025-03-21,CUST-118,Small Business,West,Technology,Laptops,3,1000.00,0.10,2700.00,750.00,No,Credit Card
+ORD-1021,2025-03-25,CUST-103,Corporate,North,Technology,Accessories,10,30.00,0.00,300.00,105.00,No,Credit Card
+ORD-1022,2025-03-29,CUST-119,Consumer,South,Furniture,Desks,1,350.00,0.00,350.00,95.00,No,PayPal
+ORD-1023,2025-04-02,CUST-120,Small Business,East,Technology,Laptops,1,1100.00,0.00,1100.00,330.00,No,Credit Card
+ORD-1024,2025-04-06,CUST-101,Consumer,West,Furniture,Chairs,3,160.00,0.00,480.00,135.00,No,Credit Card
+ORD-1025,2025-04-10,CUST-121,Corporate,North,Office Supplies,Paper,15,20.00,0.00,300.00,95.00,No,UPI
+ORD-1026,2025-04-14,CUST-122,Consumer,South,Technology,Smartphones,2,650.00,0.00,1300.00,390.00,Yes,Debit Card
+ORD-1027,2025-04-18,CUST-123,Small Business,East,Office Supplies,Storage,2,60.00,0.00,120.00,40.00,No,PayPal
+ORD-1028,2025-04-22,CUST-124,Corporate,West,Technology,Accessories,6,40.00,0.05,228.00,75.00,No,Credit Card
+ORD-1029,2025-04-26,CUST-125,Consumer,North,Furniture,Bookshelves,1,200.00,0.00,200.00,60.00,No,Credit Card
+ORD-1030,2025-04-30,CUST-104,Consumer,South,Office Supplies,Binders,10,12.00,0.00,120.00,42.00,No,UPI
+ORD-1031,2025-05-04,CUST-126,Corporate,East,Technology,Laptops,2,1100.00,0.10,1980.00,560.00,No,Credit Card
+ORD-1032,2025-05-08,CUST-127,Small Business,West,Furniture,Desks,2,250.00,0.00,500.00,140.00,No,PayPal
+ORD-1033,2025-05-12,CUST-105,Corporate,North,Technology,Smartphones,1,850.00,0.00,850.00,260.00,No,Debit Card
+ORD-1034,2025-05-16,CUST-128,Consumer,South,Office Supplies,Storage,3,50.00,0.00,150.00,48.00,No,UPI
+ORD-1035,2025-05-20,CUST-129,Small Business,East,Furniture,Chairs,4,140.00,0.00,560.00,160.00,No,Credit Card
+ORD-1036,2025-05-24,CUST-130,Corporate,West,Technology,Laptops,1,1300.00,0.00,1300.00,370.00,No,Credit Card
+ORD-1037,2025-05-28,CUST-106,Consumer,North,Office Supplies,Paper,12,25.00,0.00,300.00,96.00,No,UPI
+ORD-1038,2025-06-01,CUST-131,Small Business,South,Furniture,Bookshelves,2,160.00,0.10,288.00,80.00,No,PayPal
+ORD-1039,2025-06-05,CUST-132,Corporate,East,Technology,Smartphones,2,750.00,0.00,1500.00,450.00,No,Credit Card
+ORD-1040,2025-06-09,CUST-133,Consumer,West,Office Supplies,Binders,6,15.00,0.00,90.00,30.00,Yes,Debit Card
+ORD-1041,2025-06-13,CUST-107,Small Business,North,Furniture,Chairs,5,150.00,0.10,675.00,195.00,No,UPI
+ORD-1042,2025-06-17,CUST-134,Corporate,South,Technology,Accessories,8,35.00,0.00,280.00,92.00,No,Credit Card
+ORD-1043,2025-06-21,CUST-135,Consumer,East,Furniture,Desks,1,380.00,0.00,380.00,105.00,No,PayPal
+ORD-1044,2025-06-25,CUST-136,Small Business,West,Technology,Smartphones,1,800.00,0.05,760.00,230.00,No,Debit Card
+ORD-1045,2025-06-29,CUST-108,Corporate,North,Office Supplies,Storage,5,40.00,0.00,200.00,64.00,No,UPI
+ORD-1046,2025-07-03,CUST-137,Consumer,South,Technology,Laptops,2,950.00,0.00,1900.00,540.00,No,Credit Card
+ORD-1047,2025-07-07,CUST-138,Corporate,East,Furniture,Chairs,3,150.00,0.00,450.00,130.00,No,PayPal
+ORD-1048,2025-07-11,CUST-139,Small Business,West,Office Supplies,Paper,25,18.00,0.00,450.00,135.00,No,UPI
+ORD-1049,2025-07-15,CUST-140,Consumer,North,Technology,Accessories,4,45.00,0.00,180.00,58.00,No,Credit Card
+ORD-1050,2025-07-19,CUST-101,Consumer,South,Furniture,Bookshelves,2,180.00,0.05,342.00,98.00,No,Credit Card

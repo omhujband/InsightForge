@@ -31,6 +31,8 @@ SQL_TIMEOUT_S = 10
 SQL_MAX_ROWS = 5000
 
 SUPABASE_URL = os.getenv("SUPABASE_URL", "").strip()
+if SUPABASE_URL:
+    SUPABASE_URL = re.sub(r"/rest/v1/?$", "", SUPABASE_URL).rstrip("/")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY", "").strip()
 DEFAULT_ROLE = os.getenv("DEFAULT_ROLE", "analyst").strip().lower()
 if DEFAULT_ROLE not in ROLES:
